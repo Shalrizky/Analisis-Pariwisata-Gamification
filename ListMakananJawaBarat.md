@@ -93,8 +93,8 @@ Tahu Sumedang adalah tahu goreng khas daerah Sumedang, Jawa Barat. Tahu ini memi
 
 
 ### 13. Dodol Garut <br>
-![Dodol_Garut]([https://upload.wikimedia.org/wikipedia/commons/0/07/Tahu_sumedang.jpg](https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//93/MTA-2278109/picnic_picnic-classic-dus-dodol-garut--500-gr-_full02.jpg)
-)<br>
+![Dodol_Garut](https://upload.wikimedia.org/wikipedia/commons/f/f9/Dodol_Garut_Cihampelas_Bandung.JPG)
+<br>
 
 Dodol Garut adalah makanan manis khas Garut, Jawa Barat, terbuat dari campuran beras ketan, gula merah, santan, dan kelapa parut. Proses pembuatannya cukup panjang dan membutuhkan kesabaran karena adonan harus terus diaduk hingga kental. Dodol Garut memiliki tekstur kenyal dan rasa manis yang khas.
 <br>
@@ -103,7 +103,7 @@ Dodol Garut adalah makanan manis khas Garut, Jawa Barat, terbuat dari campuran b
 
 ### 14. Empal Gentong <br>
 ![Empal_Gentong](https://img-global.cpcdn.com/recipes/8dfa43cf35e29972/1200x630cq70/photo.jpg)
-)<br>
+<br>
 
 Empal Gentong adalah hidangan daging sapi yang dimasak dalam panci gentong bersama dengan berbagai rempah-rempah seperti jahe, serai, dan daun salam. Kuahnya kental dan berwarna coklat pekat. Empal Gentong biasanya disajikan dengan nasi putih hangat dan sambal.
 <br>
