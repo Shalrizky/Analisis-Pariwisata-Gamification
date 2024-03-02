@@ -9,7 +9,7 @@ Sate Maranggi adalah hidangan sate yang berasal dari daerah Purwakarta, Jawa Bar
 
 ### 2. Nasi Timbel <br>
 ![Nasi_Timbel](
-https://o-cdn-cas.sirclocdn.com/parenting/images/nasi-timbel.width-800.format-webp.webp)<br>
+https://kurio-img.kurioapps.com/21/10/21/8c50aafc-e9a6-4cf1-b26b-b01ca39a6787.jpe)<br>
 
 Nasi Timbel adalah makanan khas Jawa Barat yang terdiri dari nasi yang dimasak menggunakan daun pisang sebagai pembungkus. Nasi tersebut biasanya disajikan dengan lauk pauk seperti ikan goreng, ayam goreng, tempe, tahu, serta sambal dan lalapan. Proses pembungkusan menggunakan daun pisang memberikan aroma khas yang menambah kenikmatan saat menyantapnya.<br>
 
@@ -22,6 +22,12 @@ Sayur Asem adalah hidangan sup asam yang terbuat dari berbagai macam sayuran sep
 <br>
 
 
+### 4. Batagor (Bakso Tahu Goreng) <br>
+![Batagor](https://asset.kompas.com/crops/xhUxRwQsxbWaxsUB2nducVEwPYw=/27x103:995x749/750x500/data/photo/2023/09/06/64f7fe0a00572.jpg
+) <br>
+
+Batagor adalah makanan yang terdiri dari bakso ikan yang dibungkus dengan kulit tahu, kemudian digoreng hingga kecoklatan. Batagor biasanya disajikan dengan saus kacang, kecap, dan sambal. Hidangan ini populer di seluruh Jawa Barat dan sering dijadikan sebagai camilan atau menu utama.
+<br>
 
 ### 5. Soto Bandung <br>
 ![Soto_Bandung](https://asset.kompas.com/crops/aq7SWhGNCO6UTombdviZuAchnCM=/3x0:700x465/750x500/data/photo/2021/04/21/607ff824cb839.jpg
