@@ -111,7 +111,7 @@ Empal Gentong adalah hidangan daging sapi yang dimasak dalam panci gentong bersa
 
 ### 15. Docang <br>
 ![Docang](https://pict-a.sindonews.net/dyn/620/pena/news/2020/06/28/701/83718/lezatnya-docang-makanan-khas-cirebon-xba.png)
-)<br>
+<br>
 
 Docang adalah makanan tradisional Sunda yang terbuat dari campuran sayuran seperti labu siam, ketimun, kacang panjang, dan tauge yang direbus, kemudian disajikan dengan kuah kacang yang kental dan gurih. Docang sering disajikan sebagai sarapan atau makanan ringan di Jawa Barat.
 <br>
