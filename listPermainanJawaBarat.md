@@ -213,9 +213,11 @@ Cara bermain peletokan ini cukup sederhana pertama peluru yang terbuat dari kert
 
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/05e4a100-b5f1-49eb-a3e9-e1eaf6c7658c)
 
-Empet-empet adalah mainan yang terbuat dari sisa batang padi setelah dituai atau turiang, yaitu padi yang tumbuhnya agak lambat (leuir). Bila ditiup akan menghasilkan suara “pet-pet”. di Sumatra Selatan permainan ini disebut Empew-empewan.
+Deskripsi: <br>
+Permainan tradisional masyarakat Sunda,Jawa Barat ini terbuat dari batang padi ini banyak di mainkan saat menjelang panen dan saat panen tiba. Mainan yang terbuat dari bahan daun kelapa ini menghasilkan suara "peet" empet-empetan berarti bersuara "pet-pet", selain itu pada jenis musik tradisional Sunda yaitu terompet bagian belakang yang menjadi sumber suara dinamakan "mpet", tarompet adalah jenis alat tiup pengiring pertunjukan Tari, Penca Silat, Reog, dan iringan seni Beladiri Benjang.  Bahwa asal terompet itu adalah dari permainan empet-empetan, tara berasal dari tala yang artinya taraempet artinya empet yang menjadi jantung suara. Mainan mpet-mepetan atau didaerah Sukabumi disebut ole-olean, dibuat dengan cara melilitkan daun kelapa dari kecil sampai menjadi lilitan besar dan membentuk seperti terompet untuk mengakhiri lilitan.  Pada bagian akhir lilitan ditusuk dengan lidi sisa daun kelapa tadi agar lilitan tidak lepas. Didaerah pangkal lilitan ditekan agar daun lubangnya menjadi lonjong, kemudian dibuat “ Mpet “ yaitu dua daun kelapa ukuran 1 cm di pasang berhadapan dan dimasukkan kepangkal dari lilitan tadi. 
 
-Empet-empet / Empet-empetan / sesempretan adalah peluit tradisional yang berasal dari Jawa Barat. Untuk membuatnya dibutuhkan batang padi kira-kira 5 Cm, yang disobek namun tidak putus. Cara memainkannya adalah dengan meniup batang padi tersebut sampai menghasilkan bunyi khas yang mirip terompet. Konon meniup Empet-empetan berguna untuk mengusir hama padi yakni burung yang hinggap di pohon padi yang sudah menguning.
+Cara Bermain: <br>
+Untuk Memainkannya yaitu dengan cara meniupnya. Mainan Empet-empetan mempunyai bentuk dasar segi tiga, dan mempunyai dua sisi. Yang pertama adalah sumber suara dan kedua lubang yang berfungsi sebagai rongga resonator suara sehingga suara menjadi nyaring. Pada ujung lidi yang ditusukan  menjadi sarana pemegang empet-empetan tersebut warna dari empet-empetan mula-mula berwarna hijau tua ( warna daun kelapa ) lama kelamaan menjadi berwarna coklat karena daunnya mengering.
 
 
 
