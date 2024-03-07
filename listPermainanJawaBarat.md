@@ -109,7 +109,7 @@ Bisa juga dengan menjepitkan ibu jari kaki dengan bambu tersebut, dan apabila su
 
 
 Ucing Sumput
-![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://redaksi.inibaru.id/nuploads/1/petak%20umpet.jpg) 
+![image] (https://redaksi.inibaru.id/nuploads/1/petak%20umpet.jpg)
 Deskripsi Permainan
 Petak umpet adalah permainan luar ruangan populer yang melibatkan minimal dua pemain, yang ditandai dengan tindakan mencari dan bersembunyi. Dalam permainan ini, satu pemain berperan sebagai pencari dan memulai dengan menghitung sampai angka tertentu, sementara peserta lainnya mencari tempat yang aman untuk bersembunyi. Nama permainan ini berbeda-beda di setiap daerah. Bagi masyarakat Jawa, permainan ini dikenal dengan nama ‘delikan’ dan ‘petekong’. Sementara itu, bagi masyarakat Sunda, nama lain petak umpet adalah ‘ucing sumput’.
 
