@@ -1,4 +1,4 @@
-**Pantai Batu Karas**
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/44b84e4b-b67d-4bdd-9a1d-25955a7e6a07)**Pantai Batu Karas**
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/1af6f912-2079-466e-a92f-493db29a7f2d)
 
 Pantai Batu Karas merupakan salah satu destinasi pantai yang terletak di Desa Cijulang, Kabupaten Pangandaran, Jawa Barat, Indonesia. Pantai ini terkenal dengan pesona alamnya yang memesona dan menjadi surga bagi para peselancar, wisatawan pantai, dan pecinta alam.
@@ -39,17 +39,8 @@ Pantai Agrabinta adalah sebuah pantai eksotis yang terletak di Desa Tanjungsari,
 
 Pantai Tiris, yang juga dikenal sebagai Pantai Paris (Pantai Tiris Indah dan Sejuk), adalah sebuah pantai yang terletak di Desa Pabean Ilir, Kecamatan Pasekan, Kabupaten Indramayu, Jawa Barat. Pantai ini merupakan salah satu destinasi wisata tersembunyi di Indramayu yang menawarkan keindahan alam yang masih alami dan asri.
 
-
-
-
-
-
-
-
-
-
-
-6..Pantai Ketapang
+**Pantai Ketapang**
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/7cbba44f-eefe-4e44-9720-c351b3937c52)
 
 Pantai Ketapang tidak hanya merujuk pada satu tempat, tapi beberapa pantai indah di Indonesia yang memiliki nama sama. Masing-masing menawarkan pesona unik dan menarik untuk dijelajahi. Berikut penjelasan lengkap tentang beberapa Pantai Ketapang yang populer:
 
