@@ -85,7 +85,7 @@ cara memainkan permainan ini, yang pertama harus dilakukan adalah membagi seluru
 Kelompok yang menjaga dibagi menjadi dua, pemain yang menjaga garis vertikal dan pemain yang menjaga garis horizontal. Biasanya ketua dari masing-masing kelompok bertugas menjadi wasit. <br>
 Pemain yang berposisi sebagai penjaga harus menjaga sebaik mungkin untuk menghalang pemain yang sedang bermain melewati mereka, untuk pergerakan menjaga sendiri harus mengikuti garis-garis yang telah dibuat baik secara horizontal atau secara vertikal untuk membuat lawan kalah maka kelompok yang berjaga harus bisa menyentuh tubuh dari pemain yang sedang berusaha menembus pertahanan. Tim dapat dikatakan menang jika semua anggota tim kembali dengan selamat ke garis start. Tim dikatakan kalah dan baru bisa terjadi pergantian posisi jika ada yang tersentuh oleh tim yang menjaga.
 
-Sunda Manda <br>
+6. Sunda Manda <br>
 
  ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://image.popmama.com/content-images/post/20210123/engklekjpg-7a299ea9980cd4e499d18f00e65fe43a.jpg?width=600&height=auto)
 
@@ -97,7 +97,7 @@ Cara Bermain <br>
 Peserta permainan ini melompat menggunakan satu kaki disetiap petak-petak yang telah digambar sebelumnya di tanah. Untuk dapat bermain, setiap anak harus berbekal gacuk yang biasanya berupa sebentuk pecahan genting, yang juga disebut kreweng, yang dalam permainan, kreweng ini ditempatkan di salah satu petak yang tergambar di tanah dengan cara dilempar, petak yang ada gacuknya tidak boleh diinjak / ditempati oleh setiap pemain, jadi para pemain harus melompat ke petak berikutnya dengan satu kaki mengelilingi petak-petak yang ada. <br>
 Pemain yang telah menyelesaikan satu putaran terlebih dahulu, berhak memilih sebuah petak untuk dijadikan "sawah" mereka, yang artinya di petak tersebut pemain yang bersangkutan dapat menginjak petak itu dengan kedua kaki, sementara pemain lain tidak boleh menginjak petak itu selama permainan. Peserta yang memiliki kotak paling banyak adalah yang akan memenangkan permainan ini.
 
-Jajangkungan <br>
+7. Jajangkungan <br>
 
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Melestarikan_Permainan_Tradisional.jpg/220px-Melestarikan_Permainan_Tradisional.jpg)
 
@@ -110,7 +110,7 @@ Cara Bermain<br>
 Cara memainkan permainan ini adalah biasanya dimainkan oleh laki laki maupun perempuan dengan cara memegang kedua bambu dengan kuat dalam posisi tegak, kemudian salah satu kaki diangkat terlebih dahulu tepat mengenai bambu atau kayu pendek sebagai tempat pijakan untuk kaki, kemudian kaki yang satunya lagi ikut diangkat. Bisa juga dengan menjepitkan ibu jari kaki dengan bambu tersebut, dan apabila sudah seimbang maka mulailah berjalan sambil diiringi dengan kekuatan tangan yang memegang dua buah bambu tersebut. Kemudian langkahkan kaki seperti layaknya orang berjalan. Keseimbangan sangat diperlukan dalam proses ini karena kita harus berusaha agar tidak terjatuh saat berjalan.
 
 
-Ucing Sumput <br>
+8. Ucing Sumput <br>
 
 ![image] (https://redaksi.inibaru.id/nuploads/1/petak%20umpet.jpg)
 
