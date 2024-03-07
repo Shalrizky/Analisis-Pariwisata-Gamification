@@ -1,4 +1,4 @@
-![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/44b84e4b-b67d-4bdd-9a1d-25955a7e6a07)**Pantai Batu Karas**
+**Pantai Batu Karas**
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/1af6f912-2079-466e-a92f-493db29a7f2d)
 
 Pantai Batu Karas merupakan salah satu destinasi pantai yang terletak di Desa Cijulang, Kabupaten Pangandaran, Jawa Barat, Indonesia. Pantai ini terkenal dengan pesona alamnya yang memesona dan menjadi surga bagi para peselancar, wisatawan pantai, dan pecinta alam.
