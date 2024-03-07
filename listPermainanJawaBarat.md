@@ -5,6 +5,7 @@
 
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/b371034f-91cc-4e54-ba20-f7c3a1671481)
 
+Deskripsi: <br>
 Mainan conklak adalah permainan tradisional yang populer di Indonesia, terutama di Jawa Barat. Biasanya dimainkan oleh anak-anak maupun orang dewasa sebagai hiburan atau sebagai sarana untuk melatih keterampilan motorik halus dan strategi. Berikut adalah deskripsi tentang mainan conklak di Jawa Barat: 
 Bahan: Mainan conklak tradisional terbuat dari berbagai bahan, mulai dari kayu hingga plastik. Namun, yang paling umum adalah conklak yang terbuat dari cangkang kerang atau biji-bijian seperti biji jenitri atau kacang-kacangan.
 Desain: Setiap daerah mungkin memiliki desain conklak yang sedikit berbeda-beda, tetapi umumnya terdiri dari papan berlubang dengan dua baris lubang yang saling berhadapan. Setiap baris lubang memiliki tujuh atau delapan lubang kecil. Desain dan ukuran lubang bisa bervariasi tergantung pada pembuatnya.
@@ -73,55 +74,129 @@ Jika sudah seperti itu, semua pemain meloncat-loncat bergerak berputar ke arah k
 
 5. Galah Asin <br>
 
-![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/[144994306/b371034f-91cc-4e54-ba20-f7c3a1671481](https://upload.wikimedia.org/wikipedia/commons/e/eb/Permainan_galasin.jpg))
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/0bf95886-2f4f-4e9f-9538-453dc594fd00)
 
-Deskripsi Permainan <br>
-Galah Asin sering juga disebut dengan permainan gobak sodor merupakan salah satu permainan yang sering dilakukan oleh anak-anak. Dahulu permainan ini sering dilakukan oleh siswa sekolah dasar ketika mengisi waktu istirahat sekolah.
-Dalam beberapa literatur permainan galasin atau gobak sodor merupakan permainan yang berasal dari negara Belanda. Awalnya penyebutan gobak sodor sendiri berasal dari kata go back through the door yang memiliki arti menembus pintu. Akan tetapi karena cukup susah untuk dikatakan oleh masyarakat Indonesia akhirnya berubah menjadi gobak sodor. <br>
-Permainan tradisional ini dimainkan dengan cara berkelompok. Ini merupakan olahraga sekaligus permainan tradisional yang dimainkan oleh dua tim, masing masing tim terdiri dari 3 sampai 8 orang. Masing-masing anggota tim akan menghadang lawan agar tidak bisa lolos melewati garis ke baris terakhir secara bolak-balik. Permainan ini membutuhkan kecepatan, kelincahan, dan ketangkasan.
 
-Cara bermain <br>
+Deskripsi: <br>
+Galah Asin sering juga disebut dengan permainan gobak sodor merupakan salah satu permainan yang sering dilakukan oleh anak-anak. Dahulu permainan ini sering dilakukan oleh siswa sekolah dasar ketika mengisi waktu istirahat sekolah. Dalam beberapa literatur permainan galasin atau gobak sodor merupakan permainan yang berasal dari negara Belanda. Awalnya penyebutan gobak sodor sendiri berasal dari kata go back through the door yang memiliki arti menembus pintu. Akan tetapi karena cukup susah untuk dikatakan oleh masyarakat Indonesia akhirnya berubah menjadi gobak sodor. <br>
+
+Permainan tradisional ini dimainkan dengan cara berkelompok. Ini merupakan olahraga sekaligus permainan tradisional yang dimainkan oleh dua tim, masing masing tim terdiri dari 3 sampai 8 orang. Masing-masing anggota tim akan menghadang lawan agar tidak bisa lolos melewati garis ke baris terakhir secara bolak-balik. Permainan ini membutuhkan kecepatan, kelincahan, dan ketangkasan. <br>
+
+Cara bermain: <br>
 cara memainkan permainan ini, yang pertama harus dilakukan adalah membagi seluruh anak yang ikut bermain menjadi dua kelompok atau tim yang nantinya akan ada yang jadi penjaga dan juga tim yang berusaha untuk menembus penjagaan.
 Kelompok yang menjaga dibagi menjadi dua, pemain yang menjaga garis vertikal dan pemain yang menjaga garis horizontal. Biasanya ketua dari masing-masing kelompok bertugas menjadi wasit. <br>
+
 Pemain yang berposisi sebagai penjaga harus menjaga sebaik mungkin untuk menghalang pemain yang sedang bermain melewati mereka, untuk pergerakan menjaga sendiri harus mengikuti garis-garis yang telah dibuat baik secara horizontal atau secara vertikal untuk membuat lawan kalah maka kelompok yang berjaga harus bisa menyentuh tubuh dari pemain yang sedang berusaha menembus pertahanan. Tim dapat dikatakan menang jika semua anggota tim kembali dengan selamat ke garis start. Tim dikatakan kalah dan baru bisa terjadi pergantian posisi jika ada yang tersentuh oleh tim yang menjaga.
 
 6. Sunda Manda <br>
 
- ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://image.popmama.com/content-images/post/20210123/engklekjpg-7a299ea9980cd4e499d18f00e65fe43a.jpg?width=600&height=auto)
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/e92b79db-d0e3-4e34-9537-9a10c5b6bd9c)
 
-Deskripsi Permainan <br>
+
+Deskripsi: <br>
 Permainan tradisional Jawa Barat ini mungkin lebih dikenal dengan nama permainan taplak. Sunda manda atau yang menurut masyarakat Sunda lebih sering disebut dengan nama engklek adalah permainan di mana harus membuat petak atau kotak-kotak dengan ukuran sekitar 30-60 cm. Setelah menggambar petak dengan menggunakan kapur atau arang. <br>
-Permainan Sunda Manda biasanya dimainkan oleh anak-anak, dengan dua sampai lima orang peserta. Di Jawa, permainan ini disebut engklek dan biasanya dimainkan oleh anak-anak perempuan. Permainan yang serupa dengan peraturan berbeda di Britania Raya disebut dengan hopscotch. Permainan hopscotch tersebut diduga sangat tua dan dimulai dari zaman Kekaisaran Romawi.
+
+Permainan Sunda Manda biasanya dimainkan oleh anak-anak, dengan dua sampai lima orang peserta. Di Jawa, permainan ini disebut engklek dan biasanya dimainkan oleh anak-anak perempuan. Permainan yang serupa dengan peraturan berbeda di Britania Raya disebut dengan hopscotch. Permainan hopscotch tersebut diduga sangat tua dan dimulai dari zaman Kekaisaran Romawi. <br>
 
 Cara Bermain <br>
 Peserta permainan ini melompat menggunakan satu kaki disetiap petak-petak yang telah digambar sebelumnya di tanah. Untuk dapat bermain, setiap anak harus berbekal gacuk yang biasanya berupa sebentuk pecahan genting, yang juga disebut kreweng, yang dalam permainan, kreweng ini ditempatkan di salah satu petak yang tergambar di tanah dengan cara dilempar, petak yang ada gacuknya tidak boleh diinjak / ditempati oleh setiap pemain, jadi para pemain harus melompat ke petak berikutnya dengan satu kaki mengelilingi petak-petak yang ada. <br>
-Pemain yang telah menyelesaikan satu putaran terlebih dahulu, berhak memilih sebuah petak untuk dijadikan "sawah" mereka, yang artinya di petak tersebut pemain yang bersangkutan dapat menginjak petak itu dengan kedua kaki, sementara pemain lain tidak boleh menginjak petak itu selama permainan. Peserta yang memiliki kotak paling banyak adalah yang akan memenangkan permainan ini.
+
+Pemain yang telah menyelesaikan satu putaran terlebih dahulu, berhak memilih sebuah petak untuk dijadikan "sawah" mereka, yang artinya di petak tersebut pemain yang bersangkutan dapat menginjak petak itu dengan kedua kaki, sementara pemain lain tidak boleh menginjak petak itu selama permainan. Peserta yang memiliki kotak paling banyak adalah yang akan memenangkan permainan ini. <br>
 
 7. Jajangkungan <br>
 
-![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Melestarikan_Permainan_Tradisional.jpg/220px-Melestarikan_Permainan_Tradisional.jpg)
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/4b97a788-f71c-4a9d-99e7-c02182de5574)
 
-Deskripsi Permainan <br>
+
+Deskripsi: <br>
 Jajangkungan atau bisa disebut egrang adalah sebuah permainan tradisional yang menggunakan sepasang bambu untuk berjalan. Bambu dibentuk seperti tongkat yang memiliki tumpuan kaki yang terbuat dari kayu. Egrang umumnya dimainkan oleh anak-anak. Egrang juga bisa digunakan dalam atraksi. Permainan egrang berguna dalam pelatihan pengendalian diri dengan menjaga keseimbangan, ke fokusan dan meningkatkan rasa percaya diri sekaligus hiburan untuk anak anak maupun dewasa. <br>
 
 Egrang sudah dikenal sejak zaman Belanda sebagai salah satu permainan tradisional Indonesia yang tercatat dalam buku Javanese Kinder Spellen. Kata egrang memiliki beberapa arti, di daerah Jawa Barat (Pasundan) kata egrang disebut sebagai permainan jajangkungan atau jajangkungan. Jajangkungan berasal dari kata “jangkung” yang berarti tinggi. Di provinsi Sumatera Barat, egrang disebut sebagai tengkak-tengkak, yang berarti pincang. Sedangkan dalam Bahasa Bengkulu, tengkak berarti sepatu yang terbuat dari bambu. <br>
 
-Cara Bermain<br>
+Cara Bermain: <br>
 Cara memainkan permainan ini adalah biasanya dimainkan oleh laki laki maupun perempuan dengan cara memegang kedua bambu dengan kuat dalam posisi tegak, kemudian salah satu kaki diangkat terlebih dahulu tepat mengenai bambu atau kayu pendek sebagai tempat pijakan untuk kaki, kemudian kaki yang satunya lagi ikut diangkat. Bisa juga dengan menjepitkan ibu jari kaki dengan bambu tersebut, dan apabila sudah seimbang maka mulailah berjalan sambil diiringi dengan kekuatan tangan yang memegang dua buah bambu tersebut. Kemudian langkahkan kaki seperti layaknya orang berjalan. Keseimbangan sangat diperlukan dalam proses ini karena kita harus berusaha agar tidak terjatuh saat berjalan.
 
 
 8. Ucing Sumput <br>
 
-![image] (https://redaksi.inibaru.id/nuploads/1/petak%20umpet.jpg)
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/af91ebca-2705-431a-ab89-8304561b87ac)
 
-Deskripsi Permainan <br>
+
+Deskripsi: <br>
 Petak umpet adalah permainan luar ruangan populer yang melibatkan minimal dua pemain, yang ditandai dengan tindakan mencari dan bersembunyi. Dalam permainan ini, satu pemain berperan sebagai pencari dan memulai dengan menghitung sampai angka tertentu, sementara peserta lainnya mencari tempat yang aman untuk bersembunyi. Nama permainan ini berbeda-beda di setiap daerah. Bagi masyarakat Jawa, permainan ini dikenal dengan nama ‘delikan’ dan ‘petekong’. Sementara itu, bagi masyarakat Sunda, nama lain petak umpet adalah ‘ucing sumput’. <br>
 
 Petak umpet, meskipun populer di kalangan anak-anak Indonesia, berasal dari Yunani. Hal ini terbukti dari tulisan Julius Pollux pada abad kedua sebelum masehi, yang menyebutkan permainan bernama Apoddraskinda, mirip dengan petak umpet. Meskipun demikian, kini petak umpet menjadi permainan yang sering dimainkan oleh anak-anak di seluruh dunia, termasuk Indonesia, dan diakui sebagai warisan budaya tak benda oleh Kemendikbudristek. <br>
 
-Cara Bermain <br>
-Dalam permainan ini, para pemain pertama-tama melakukan sebuah undian sederhana untuk menentukan siapa yang akan menjadi "ucing". Ini bisa dilakukan dengan menyanyikan lagu "hompimpa alaihum gambreng" atau "Cang Kacang". Pemain yang kalah dalam undian ini akan menjadi ucing. Setelah ucing ditentukan, mereka mulai menghitung sambil menutup mata, sementara pemain lain bersembunyi. Jumlah hitungan biasanya sudah disepakati sebelumnya, misalnya 10, 15, atau 20. Semakin sedikit jumlah hitungan, semakin menantang bagi pemain yang bersembunyi. Setelah hitungan selesai, ucing mencoba mencari teman-temannya yang bersembunyi. Mereka harus berhati-hati dan teliti untuk menemukan pemain lain yang bersembunyi di sekitar mereka. Ketika ucing berhasil menemukan salah satu temannya yang bersembunyi, temannya itu menjadi ucing berikutnya dan permainan dilanjutkan kembali. Bermain permainan ini, yang melibatkan strategi, kelincahan, dan kesabaran dari semua pemain yang terlibat.
+Cara Bermain: <br>
+Sebelum permainan dimulai, para pemain akan menentukan siapa yang akan menjadi "ucing" terlebih dahulu. Ini dilakukan dengan cara menyanyikan lagu undian "hompimpa alaihum gambreng". Pemain yang kalah dalam lagu ini akan menjadi ucing untuk berjaga. Selain lagu hompimpa, ada juga opsi untuk menyanyikan lagu "Cang Kacang". Semua pemain akan meluruskan lengan tangannya secara berulang hingga lagunya berakhir. Siapapun yang menekukkan lengan tangannya paling terakhir ketika lagu selesai akan menjadi ucing. Setelah menentukan ucing, permainan dimulai dengan pemain ucing mulai berhitung sambil menutup matanya. Wajah ucing biasanya ditempelkan pada pohon, tiang, atau benda lainnya. Hitungan tersebut menandakan teman-teman yang lain harus bersembunyi agar tidak ketahuan oleh ucing. Jumlah hitungan biasanya sesuai kesepakatan awal, bisa 10, 15, atau 20. Semakin sedikit jumlah hitungan akan semakin menantang bagi pemain yang harus bersembunyi. Ketika hitungan selesai, ucing mulai mencari teman-temannya yang bersembunyi. Setelah menemukan salah satu temannya yang bersembunyi dan menjadi pertama, pemain tersebut selanjutnya menjadi ucing dan permainan dilanjutkan kembali.
 
+9. Bandring atau Ketapel <br>
+
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/8d9a6bd3-0bb4-48d5-b861-188559ce2e43)
+
+
+Deskripsi: <br>
+Permainan Bandring atau biasa disebut ketapel merupakan sebuah senjata kecil yang berukuran tangan. Bandring ini menggunakan bahan-bahan yang berasal dari kayu. Bandring menggunakan dahan yang "nyagak" bercabang dua (yang seimbang) yang berbentuk Y. Batang kayu yang sering digunakan untuk melontar biasanya cabang pohon jambu biji. Karena teksturnya keras dan keras tapi tidak mudah pecah. Mainan ini adalah termasuk mainan yang populer dan masih bertahan, meskipun penggunaannya berbeda dengan masa lalu, yaitu untuk berburu tetapi masa sekarang hanya digunakan untuk belajar menembak sasaran. Banyak sekali kelemahan atau sesuatu yang dapat membahayakan dari ketapel, jika ketapel dimainkan oleh seseorang yang kurang profesional maka akan mengakibatkan sesuatu yang fatal  misalnya yang dapat menyebabkan luka mata, wajah dan dapat mengakibatkan kebutaan dan gigi yang patah. <br>
+
+Alat yang memiliki sejarah panjang dan tersebar di berbagai budaya di dunia. Meskipun asal muasalnya tidak pasti, penggunaannya ditemukan dalam berbagai konteks seperti berburu, pertanian, dan sebagai senjata perang oleh peradaban kuno seperti Mesir, Yunani, dan Romawi. Penggunaan tradisional ketapel juga terdapat di Indonesia. Namun, asal muasal pastinya tetap menjadi misteri karena penggunaannya yang tersebar di berbagai belahan dunia sejak zaman kuno. <br>
+
+Cara Bermain: <br>
+Untuk bermain bandring atau ketapel, pertama, siapkan ketapel dan proyektil. Pegang ketapel dengan satu tangan dan proyektil dengan tangan yang lain. Tarik tali karet, arahkan ke target, lalu lepaskan untuk menembak. Latihanlah untuk meningkatkan keterampilan. Pastikan selalu bermain dengan aman.
+    
+10. Boy – Boy’an <br>
+
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/ed28089a-c6b5-4689-bc7e-8ced38352312)
+
+
+Deskripsi: <br>
+Boy-boyan merupakan permainan tradisional yang berasal dari provinsi Jawa Barat khususnya di daerah Sunda. Permainan ini biasanya dimainkan oleh anak laki-laki. Tentu saja bukan dikhususkan untuk anak laki-laki, anak perempuan juga bisa bermain boy-boyan. Sebenarnya, permainan ini memiliki nama yang berbeda-beda di setiap daerahnya. Misalnya, di daerah Pati, Jawa Tengah, permainan ini dikenal dengan nama Gaprek Kempung. Di daerah Sunda, ada yang menyebutnya boy-boyan, ada juga yang menyebutnya Bebencaran. Dan di beberapa daerah lainnya permainan ini disebut Gebokan, karena katanya suara yang biasa ditimbulkan apabila bola karet yangdigunakan dalam permainan mengenai anggota badan dari pemain akan menimbulkansuara “Gebok”. <br>
+
+Indonesia merupakan negara kepulauan yang terdiri dari beragam suku dan budaya. Beragamnya budaya tersebut membuat masing-masing daerah menjadi unik dan memiliki ciri khas tersendiri. Salah satunya dalam hal permainan tradisional. Pernah kah kamu memainkan permainan tradisional boy-boyan? Permainan ini ternyata merupakan permainan yang berasal dari Sunda, lho. Biasanya boy-boyan dimainkan secara berkelompok. <br>
+
+Walaupun memiliki sebutan yang berbeda-beda, pada intinya permainan boy- boyan ini adalah sama. Permainan tradisional dari Jawa Barat ini memadukan kerja motorik anak dan juga mengasah kemampuan membuat strategi. Boy-boyan sendiri biasanya terdiri dari lima hingga sepuluh pemain yang dibagi menjadi dua kelompok dan dilakukan di lapangan yang cukup luas. <br>
+
+Cara Bermain: <br>
+Dalam permainan "Boy Boyan", pemain berdiri di sekitar pusat permainan. Salah satu pemain dipilih sebagai "boy" yang bertugas menjaga pusat permainan. Pemain lain berusaha mendekati pusat permainan tanpa tersentuh oleh "boy". Jika pemain berhasil menyentuh pusat permainan tanpa tersentuh, mereka mendapat poin atau menjadi "boy" berikutnya. Permainan berlangsung dengan bergantian antara pemain yang menjadi "boy" dan yang mencoba mendekati pusat permainan. Permainan berakhir setelah waktu yang ditentukan atau setelah semua pemain telah menjadi "boy" setidaknya sekali. <br>
+   
+11. Pangal atau gangsing <br>
+
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/c618abcd-2331-417d-8dc6-7b4a45fa39e5)
+
+
+Deskripsi: <br>
+Pangal atau gangsing merupakan salah satu permainan tradisional Jawa Barat, Pangal adalah mainan yang bisa berputar pada poros dan berkesetimbangan pada suatu titik, umumnya terbuat dari kayu yang dibubut. Kayu diukir dan dibentuk hingga menjadi bagian badan gasing. Tali gasing umumnya dibuat dari nilon, sedangkan tali gasing tradisional dibuat dari kulit pohon. Panjang tali gasing berbeda-beda bergantung pada panjang lengan orang yang memainkan. <br>
+
+Selain itu juga pangal atau gangsing berasal dari dua suku kata dari kata gangsing, yaitu gang dan sing. Gang artinya lorong atau lokasi, dan sing artinya suara. Sehingga secara keseluruhan, gangsing berarti permainan yang dimainkan di tempat kosong dan mengeluarkan bunyi. Tidak ada yang mengetahui secara pasti mengenai asal-usul gangsi. Namun, banyak cerita yang muncul tentang asal-usul permainan tradisional ini. Ada pendapat gangsing berasa dari China yang menyebar ke Austronesia, seperti Afrika, Amerika, dan Asia Tenggara (termasuk Indonesia). <br>
+
+Cara Bermain: <br>
+Dengan cara bermain, cukup simple tali yang dililitkan di bagian atas gasing, kemudian gasing dilempar dan akan berputar karena tali ditarik kembali setelah dilempar. Gasing akan berputar mengikuti ikatan tali itu. Biasanya, gasing dimainkan secara berkelompok atau satu lawan satu. Gasing yang paling lama berputar adalah pemenangnya. <br>
+
+12. oray-orayan <br>
+
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/17d411d0-d565-40b5-b806-ac6984f8885d)
+
+
+Deskripsi: <br>
+Oray-orayan adalah salahsatu permainan yang sangat poler di kalangan anak anak Jawa Barat. Pada masanya permainan ini menjadi permainan favorite yang sering dimainkan anak anak tatar sunda. Permainan ini pun dikenal luas di beberapa daerah di Indonesia, namun tentunya dengan nama yang berbeda beda. Oray-orayan atau dalam bahasa Indonesia adalah permainan ular, biasanya oleh lima orang atau lebih. Posisi anak yang berada di depan bertindak sebagai kepala oray atau ular, kemudian anak lainnya yang membuntutinya di belakang dengan cara saling keterikatan. <br>
+
+Oray-orayan sudah dikenali sudah sejak lama oleh masyarakat Jawa Barat, dan tersebar hampir di seluruh wilayah Jawa Barat. Penamaan pada permainan oray-orayan ini sepertinya didasari karena permainannya menyerupai ular, atau meniru ular. Tapi pengertian meniru ular ini hanyalah meniru gerakannya saja. Dan esensi dari permainan oray-orayan ini adalah hal yang tidak dilakukan oleh ular yang sebenarnya. Gerakan ini, tentu memiliki makna tersendiri. <br>
+
+Makna tersebut ada yang mengartikan bahwa oray-orayan adalah permainan yang identik dengan simbol ouroboros atau uroborus, yaitu simbol kuno yang merepresentasikan seekor naga atau ular yang memakan ekornya sendiri. Simbol ini sangatlah sarat akan makna, yaitu, mencerminkan refleksi diri atau siklus penciptaan diri. <br>
+
+Cara Bermain: <br>
+Dalam permainan tradisional "Oray Orayan", seorang pemain dipilih sebagai "Oray". Oray ini berada di tengah-tengah sementara pemain lain berkumpul di sekitarnya. Oray kemudian mulai menyanyikan lagu atau pantun sambil membuat gerakan tertentu. Pemain lain harus dengan cepat menirukan gerakan yang dibuat oleh Oray. Jika ada yang gagal menirukan gerakan dengan benar, mereka akan dikeluarkan dari permainan. Permainan berlanjut dengan Oray membuat gerakan yang berbeda-beda, dan para pemain mencoba untuk tetap mengikuti gerakan tersebut. Permainan berakhir ketika hanya ada satu pemain tersisa yang masih berhasil mengikuti semua gerakan Oray. Pemain tersebut kemudian menjadi Oray untuk putaran selanjutnya. <br>
+
+
+13. Anjang-anjangan <br>
+
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/148985596/ad6d9e31-97fa-469b-b88e-75de58b7b042)
+
+
+Deskripsi: <br>
+Anjang-Anjangan adalah permainan anak-anak Sunda yang berasal dari Jawa Barat. Dalam permainan klasik ini, anak-anak meniru kehidupan sehari-hari orang dewasa, seolah-olah mereka sudah berumah tangga. Meskipun umumnya dimainkan oleh perempuan, anak laki-laki pun sering ikut serta. Dalam permainan ini, setiap anak mendapat peran yang berbeda-beda, seperti ayah, ibu, anak, tetangga, tukang dagang, dokter, dan lain-lain. Mereka harus menghayati peran masing-masing dengan baik. Beberapa anak mungkin juga bertindak sebagai "sutradara", yang bertanggung jawab mengatur alur dan skenario permainan untuk menjaga agar tetap menarik dan ramai. Anak-anak menikmati permainan ini karena memberi mereka kesempatan untuk berkreasi dan berimajinasi dalam meniru kehidupan sehari-hari orang dewasa. Permainan ini juga membantu mereka untuk belajar tentang interaksi sosial, kerjasama, dan keterampilan berbicara dalam berbagai peran yang mereka mainkan. <br>
+
+Cara Bermain: <br>
+Dalam permainan Anjang-Anjangan cukup bebas berdasarkan anak-anak bebas berekpresi dalam memilih peran seperti ayah, ibu, anak, tetangga, atau tukang dagang. Mereka berpakaian sesuai dengan peran yang dipilih apa yang mereka mau dan bertindak seperti karakter yang mereka perankan. Anak-anak berinteraksi satu sama lain dengan menggunakan dialog maupun tidak dan tindakan yang sesuai dengan peran masing-masing. Permainan berlangsung hingga waktu bermain selesai atau sampai anak-anak merasa puas dengan permainannya. <br>
 
 ## Permainan jawa barat Induvidu / Sendiri
 1. Bebeletokan
