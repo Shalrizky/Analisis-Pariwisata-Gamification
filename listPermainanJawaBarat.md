@@ -71,9 +71,55 @@ Eh jaja eh jaja eh jaja eh jaja <br>
 Kalau pertahanan kakinya sudah kuat, masing-masing pemain harus menjaga keseimbangganya agar tidak terjatuh dan satu per satu mulai melepaskan tangannya.
 Jika sudah seperti itu, semua pemain meloncat-loncat bergerak berputar ke arah kanan atau kiri tergantung kesepakatan bersama. Sambil berputar semuanya melantunkan lagu yang ada di atas sambil bertepuk tangan. Semakin lama putarannya akan semakin cepat hingga akhirnya keseimbangan para pemain tidak dapat dipertahankan lagi dan semuanya berjatuhan.
 
+5. Galah Asin
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/[144994306/b371034f-91cc-4e54-ba20-f7c3a1671481](https://upload.wikimedia.org/wikipedia/commons/e/eb/Permainan_galasin.jpg))
+
+Deskripsi Permainan
+Galah Asin sering juga disebut dengan permainan gobak sodor merupakan salah satu permainan yang sering dilakukan oleh anak-anak. Dahulu permainan ini sering dilakukan oleh siswa sekolah dasar ketika mengisi waktu istirahat sekolah.
+Dalam beberapa literatur permainan galasin atau gobak sodor merupakan permainan yang berasal dari negara Belanda. Awalnya penyebutan gobak sodor sendiri berasal dari kata go back through the door yang memiliki arti menembus pintu. Akan tetapi karena cukup susah untuk dikatakan oleh masyarakat Indonesia akhirnya berubah menjadi gobak sodor. 
+Permainan tradisional ini dimainkan dengan cara berkelompok. Ini merupakan olahraga sekaligus permainan tradisional yang dimainkan oleh dua tim, masing masing tim terdiri dari 3 sampai 8 orang. Masing-masing anggota tim akan menghadang lawan agar tidak bisa lolos melewati garis ke baris terakhir secara bolak-balik. Permainan ini membutuhkan kecepatan, kelincahan, dan ketangkasan.
+
+Cara bermain
+cara memainkan permainan ini, yang pertama harus dilakukan adalah membagi seluruh anak yang ikut bermain menjadi dua kelompok atau tim yang nantinya akan ada yang jadi penjaga dan juga tim yang berusaha untuk menembus penjagaan.
+Kelompok yang menjaga dibagi menjadi dua, pemain yang menjaga garis vertikal dan pemain yang menjaga garis horizontal. Biasanya ketua dari masing-masing kelompok bertugas menjadi wasit.
+Pemain yang berposisi sebagai penjaga harus menjaga sebaik mungkin untuk menghalang pemain yang sedang bermain melewati mereka, untuk pergerakan menjaga sendiri harus mengikuti garis-garis yang telah dibuat baik secara horizontal atau secara vertikal untuk membuat lawan kalah maka kelompok yang berjaga harus bisa menyentuh tubuh dari pemain yang sedang berusaha menembus pertahanan. Tim dapat dikatakan menang jika semua anggota tim kembali dengan selamat ke garis start. Tim dikatakan kalah dan baru bisa terjadi pergantian posisi jika ada yang tersentuh oleh tim yang menjaga.
+
+Sunda Manda
+ ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://image.popmama.com/content-images/post/20210123/engklekjpg-7a299ea9980cd4e499d18f00e65fe43a.jpg?width=600&height=auto)
+
+Deskripsi Permainan
+Permainan tradisional Jawa Barat ini mungkin lebih dikenal dengan nama permainan taplak. Sunda manda atau yang menurut masyarakat Sunda lebih sering disebut dengan nama engklek adalah permainan di mana harus membuat petak atau kotak-kotak dengan ukuran sekitar 30-60 cm. Setelah menggambar petak dengan menggunakan kapur atau arang.
+Permainan Sunda Manda biasanya dimainkan oleh anak-anak, dengan dua sampai lima orang peserta. Di Jawa, permainan ini disebut engklek dan biasanya dimainkan oleh anak-anak perempuan. Permainan yang serupa dengan peraturan berbeda di Britania Raya disebut dengan hopscotch. Permainan hopscotch tersebut diduga sangat tua dan dimulai dari zaman Kekaisaran Romawi.
+
+Cara Bermain
+Peserta permainan ini melompat menggunakan satu kaki disetiap petak-petak yang telah digambar sebelumnya di tanah. Untuk dapat bermain, setiap anak harus berbekal gacuk yang biasanya berupa sebentuk pecahan genting, yang juga disebut kreweng, yang dalam permainan, kreweng ini ditempatkan di salah satu petak yang tergambar di tanah dengan cara dilempar, petak yang ada gacuknya tidak boleh diinjak / ditempati oleh setiap pemain, jadi para pemain harus melompat ke petak berikutnya dengan satu kaki mengelilingi petak-petak yang ada.
+Pemain yang telah menyelesaikan satu putaran terlebih dahulu, berhak memilih sebuah petak untuk dijadikan "sawah" mereka, yang artinya di petak tersebut pemain yang bersangkutan dapat menginjak petak itu dengan kedua kaki, sementara pemain lain tidak boleh menginjak petak itu selama permainan. Peserta yang memiliki kotak paling banyak adalah yang akan memenangkan permainan ini.
+
+Jajangkungan
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Melestarikan_Permainan_Tradisional.jpg/220px-Melestarikan_Permainan_Tradisional.jpg)
+
+Deskripsi Permainan
+Jajangkungan atau bisa disebut egrang adalah sebuah permainan tradisional yang menggunakan sepasang bambu untuk berjalan. Bambu dibentuk seperti tongkat yang memiliki tumpuan kaki yang terbuat dari kayu. Egrang umumnya dimainkan oleh anak-anak. Egrang juga bisa digunakan dalam atraksi. Permainan egrang berguna dalam pelatihan pengendalian diri dengan menjaga keseimbangan, ke fokusan dan meningkatkan rasa percaya diri sekaligus hiburan untuk anak anak maupun dewasa.
+
+Egrang sudah dikenal sejak zaman Belanda sebagai salah satu permainan tradisional Indonesia yang tercatat dalam buku Javanese Kinder Spellen. Kata egrang memiliki beberapa arti, di daerah Jawa Barat (Pasundan) kata egrang disebut sebagai permainan jajangkungan atau jajangkungan. Jajangkungan berasal dari kata “jangkung” yang berarti tinggi. Di provinsi Sumatera Barat, egrang disebut sebagai tengkak-tengkak, yang berarti pincang. Sedangkan dalam Bahasa Bengkulu, tengkak berarti sepatu yang terbuat dari bambu. 
+Cara Bermain
+Cara memainkan permainan ini adalah biasanya dimainkan oleh laki laki maupun perempuan dengan cara memegang kedua bambu dengan kuat dalam posisi tegak, kemudian salah satu kaki diangkat terlebih dahulu tepat mengenai bambu atau kayu pendek sebagai tempat pijakan untuk kaki, kemudian kaki yang satunya lagi ikut diangkat.
+
+Bisa juga dengan menjepitkan ibu jari kaki dengan bambu tersebut, dan apabila sudah seimbang maka mulailah berjalan sambil diiringi dengan kekuatan tangan yang memegang dua buah bambu tersebut. Kemudian langkahkan kaki seperti layaknya orang berjalan. Keseimbangan sangat diperlukan dalam proses ini karena kita harus berusaha agar tidak terjatuh saat berjalan.
 
 
-## Permainan jawa barat Individi / Sendiri
+Ucing Sumput
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/https://redaksi.inibaru.id/nuploads/1/petak%20umpet.jpg) 
+Deskripsi Permainan
+Petak umpet adalah permainan luar ruangan populer yang melibatkan minimal dua pemain, yang ditandai dengan tindakan mencari dan bersembunyi. Dalam permainan ini, satu pemain berperan sebagai pencari dan memulai dengan menghitung sampai angka tertentu, sementara peserta lainnya mencari tempat yang aman untuk bersembunyi. Nama permainan ini berbeda-beda di setiap daerah. Bagi masyarakat Jawa, permainan ini dikenal dengan nama ‘delikan’ dan ‘petekong’. Sementara itu, bagi masyarakat Sunda, nama lain petak umpet adalah ‘ucing sumput’.
+
+Petak umpet, meskipun populer di kalangan anak-anak Indonesia, berasal dari Yunani. Hal ini terbukti dari tulisan Julius Pollux pada abad kedua sebelum masehi, yang menyebutkan permainan bernama Apoddraskinda, mirip dengan petak umpet. Meskipun demikian, kini petak umpet menjadi permainan yang sering dimainkan oleh anak-anak di seluruh dunia, termasuk Indonesia, dan diakui sebagai warisan budaya tak benda oleh Kemendikbudristek.
+
+Cara Bermain
+Dalam permainan ini, para pemain pertama-tama melakukan sebuah undian sederhana untuk menentukan siapa yang akan menjadi "ucing". Ini bisa dilakukan dengan menyanyikan lagu "hompimpa alaihum gambreng" atau "Cang Kacang". Pemain yang kalah dalam undian ini akan menjadi ucing. Setelah ucing ditentukan, mereka mulai menghitung sambil menutup mata, sementara pemain lain bersembunyi. Jumlah hitungan biasanya sudah disepakati sebelumnya, misalnya 10, 15, atau 20. Semakin sedikit jumlah hitungan, semakin menantang bagi pemain yang bersembunyi. Setelah hitungan selesai, ucing mencoba mencari teman-temannya yang bersembunyi. Mereka harus berhati-hati dan teliti untuk menemukan pemain lain yang bersembunyi di sekitar mereka. Ketika ucing berhasil menemukan salah satu temannya yang bersembunyi, temannya itu menjadi ucing berikutnya dan permainan dilanjutkan kembali. Bermain permainan ini, yang melibatkan strategi, kelincahan, dan kesabaran dari semua pemain yang terlibat.
+
+
+## Permainan jawa barat Induvidu / Sendiri
 1. Bebeletokan
 
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/78f1ded9-fb97-433c-99c1-d46d73e41f01)
