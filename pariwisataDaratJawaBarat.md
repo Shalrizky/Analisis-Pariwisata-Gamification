@@ -145,6 +145,17 @@ Jl. Pasuketan, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111
 - Berfoto
 - Kuliner
 
+<br> **7. Gedung Sate** <br>
+
+
+Menjadi ikon Kota Bandung, Gedung Sate merupakan salah satu tempat wisata budaya paling terkenal di Bandung dan memiliki ciri khas berupa atapnya yang mirip dengan sate. Gedung ini merupakan bangunan peninggalan pada zaman kolonial yang dibangun pada tahun 1920.Awalnya, gedung ini digunakan sebagai kantor Departemen Pekerjaan Umum dan Pengairan. Namun, kini gedung tersebut dijadikan sebagai pusat pemerintahan Provinsi Jawa Barat. Di sini, pengunjung dapat melihat berbagai koleksi yang ditawarkan. Selain itu terdapat juga virtual reality yang menjadi daya tarik bagi pengunjung.
+
+<br>**Apa Saja yang Bisa Dilakukan**<br>
+- Berfoto
+- Kuliner
+- belajar sejarah
+
+
 <h2> Wisata Alam dan Pegunungan : </h2>
 
 <br> **1. Taman Safari Bogor**<br>
@@ -257,5 +268,23 @@ Parkir bus : Rp25.000,00 – Rp40.000,00
 - Berfoto
 - Membuat Kerajinan Tangan
 
+
+<br> **3. Kampung Selasari Parigi** <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/c516e0e6-52fb-46d9-bd58-77c628c7f591)
+
+<br>**Alamat**<br>
+kecamatan Kawali, Ciamis, Jawa Barat, Indonesia.
+
+Desa Selasari merupakan salah satu dari 10 desa yang berada di Kecamatan Parigi. Desa Selasari menurut data sekunder dari RPJMDes telah ada sejak jaman penjajahan Jepang. Desa Selasari awalnya merupakan salah satu desa yang berada dalam Kabupaten Ciamis, namun sejak tahun 2012 terjadi pemekaran Kabupaten Ciamis, sehingga Desa Selasari kini berada dalam wilayah Kabupaten Pangandaran.
+
+Desa Selasari berada dalam wilayah Kecamatan Parigi Kabupaten Pangandaran. Desa selasari berada pada ketinggian 200-500 mdpl dan memiliki luas wilayah ±2.292.500 ha. yang terbagi dalam 45 RT, 17 RW dan 8 Dusun, yaitu Dusun Salakambang, Dusun Cikawung, Dusun Banjarsari, Dusun Tenjosari, Dusun Karangmukti, Dusun Giriharja, Dusun, Cikadu dan Dusun Pepedan. Desa ini merupakan desa terluas yang ada di Kecamatan Parigi. Penduduk Desa Selasari berdasarkan data kependudukan tahun 2014 tercatat sebanyak 1.930 KK dan 5.194 jiwa terdiri dari 2.617 laki-laki dan 2.577 perempuan.
+
+<br> **4. Desa Taraju** <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/a29ba08c-f8aa-46c5-a610-392d448c2c57)
+
+<br>**Alamat**<br>
+sisi barat Kabupaten Tasikmalaya, tepatnya di Jalan Kaum Kaler No. 01, Taraju, Kabupaten Tasikmalaya, Jawa Barat. Desa Taraju memiliki wilayah seluas 543,2
+
+Desa Taraju juga menawarkan wisata river tubing, camping, dan wisata edukasi, seperti memetik kopi dan teh, bersawah, dan membuat paving block. Ada juga wisata budaya dengan menikmati pagelaran Kuda Lumping dan kaulinan budak. Desa Taraju juga menawarkan wisata kuliner dengan beberapa produk UMKM, seperti Kopi Robusta Luhur Langit Taraju, Teh Taraju, sale pisang, dan produk kuliner lainnya.
 
 
