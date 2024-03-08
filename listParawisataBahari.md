@@ -86,6 +86,6 @@ Pantai Tiris, yang juga dikenal sebagai Pantai Paris (Pantai Tiris Indah dan Sej
 **Pantai Ketapang** <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/150756706/7cbba44f-eefe-4e44-9720-c351b3937c52)
 
-Pantai Ketapang tidak hanya merujuk pada satu tempat, tapi beberapa pantai indah di Indonesia yang memiliki nama sama. Masing-masing menawarkan pesona unik dan menarik untuk dijelajahi. Berikut penjelasan lengkap tentang beberapa Pantai Ketapang yang populer:
+Pantai Ketapang tidak hanya merujuk pada satu tempat, tapi beberapa pantai indah di Indonesia yang memiliki nama sama. Masing-masing menawarkan pesona unik dan menarik untuk dijelajahi. Berikut penjelasan lengkap tentang beberapa Pantai Ketapang yang populer Pantai. Ketapang merupakan destinasi wisata pantai yang terletak di Desa Ketapang, Kecamatan Sindang, Kabupaten Indramayu, Jawa Barat. Pantai ini menawarkan pesona alam yang indah dengan pasir putihnya yang halus,
 
 
