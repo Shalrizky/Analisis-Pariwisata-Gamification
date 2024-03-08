@@ -174,31 +174,146 @@ Sejarah Ciamis terhubung erat dengan Kerajaan Galuh Pakuan Pajajaran. Pada abad 
   -Tradisi Unik: Ciamis memiliki berbagai tradisi unik, seperti Mapag Sri dan Festival Layang-layang. <br>
 
 ### 11. KABUPATEN PANGANDARAN <br>
-![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/6efc0ff8-0707-452a-8876-2e93a587a840)
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/5edfee52-a111-4974-b3c3-8bf13adcb0cc)
 
-Kabupaten Pangandaran (aksara Sunda: ᮕᮍᮔ᮪ᮓᮛᮔ᮪) adalah sebuah wilayah kabupaten yang terletak di Provinsi Jawa Barat, Indonesia. Ibu kotanya adalah Kecamatan Parigi. Kabupaten Pangandaran memiliki luas wilayah sekira 1.011,04 km. Kabupaten Pangandaran berbatasan dengan Kabupaten Ciamis di sebelah utara, Kabupaten Cilacap (Provinsi Jawa Tengah) di sebelah timur, Samudra Hindia di sebelah selatan, serta Kabupaten Tasikmalaya di sebelah barat. Kabupaten Pangandaran terletak di bagian ujung tenggara dari wilayah Provinsi Jawa Barat yang berbatasan langsung dengan Provinsi Jawa Tengah di sebelah timur. Kabupaten ini merupakan buah pemekaran dari Kabupaten Ciamis.
+1. Deskripsi: <br>
+Pangandaran adalah sebuah kabupaten di Provinsi Jawa Barat. Kabupaten ini berbatasan dengan Kabupaten Ciamis di utara, Kabupaten Cilacap di timur, Samudera Hindia di selatan, serta Kabupaten Tasikmalaya di barat. Kabupaten Pangandaran merupakan salah satu kabupaten termuda di Indonesia. Usianya baru satu dekade pada 2022 ini. Suku asli dan mayoritas yang mendiami wilayah Pangandaran adalah suku Sunda, sedangkan suku pendatang di Pangandaran adalah suku Jawa, Minangkabau, Madura dan lainnya di Indonesia. Nama Pangandaran berasal dari dua buah kata, yakni Pangan dan Daran. Pangan artinya makanan dan Daran adalah pendatang. Jika menilik dari kisah sejarah, nama Pangandaran ini memiliki arti sumber makanan bagi para pendatang.
+<br>
 
-Ibukota: Kecamatan Pangandaran <br>
-Luas: 1.011,04 km persegi <br>
-Penduduk: 1,389 juta (2015) <br>
-Kecamatan: 27 <br>
-Desa: 258 <br>
-Wisata:
-Alam:
-Pantai Pangandaran: Salah satu pantai terindah di Jawa Barat dengan pasir putih dan ombak yang cocok untuk berselancar. <br>
-Green Canyon: Nama lain dari Cukang Taneuh, tempat wisata dengan sungai yang membelah tebing tinggi, disebut "Cukang Taneuh" karena sungai ini terbelah dan membentuk seperti jalan setapak di antara tebing-tebingnya. <br>
-Taman Hutan Raya Pangandaran: Kawasan konservasi dengan beragam flora dan fauna yang dilindungi. <br>
-Air Terjun Citumang: Air terjun yang memesona dengan air yang jernih dan alami. <br>
-Budaya: <br>
-Kampung Naga: Desa adat yang masih mempertahankan tradisi Sunda kuno, terletak di lereng Gunung Pulosari. <br>
-Wayang Golek Pangandaran: Seni tradisional wayang golek khas Pangandaran yang masih lestari. <br>
-Seni Bela Diri Sunda: Tradisi seni bela diri khas Sunda yang diwarisi secara turun-temurun. <br>
-Kuliner: <br>
-Makanan Khas Pangandaran: Sajian kuliner yang terkenal diantaranya adalah sate kelapa, gurami goreng, dan ikan bakar. <br>
-Pohon Pisang Epe: Makanan ringan berbahan dasar pisang yang dipadatkan dan diberi siraman sari kelapa. <br>
-Sejarah: <br>
-Pangandaran memiliki sejarah panjang sebagai pelabuhan perdagangan laut sejak zaman Kerajaan Pajajaran. <br>
-Pada masa kolonial Belanda, Pangandaran menjadi pusat perdagangan hasil hutan seperti kayu ulin dan damar. <br>
-Hal Unik: <br>
-Festival Kaulinan Pangandaran: Festival tahunan yang menampilkan berbagai permainan tradisional Sunda dan kegiatan budaya lainnya. <br>
-Tradisi Seren Taun: Tradisi menyambut musim panen yang diiringi dengan berbagai upacara adat dan kesenian. <br>
+2. Sejarah: <br>
+Sejarah panjang Kabupaten Pangandaran bermula pada 1819 yang saat itu masih merupakan nama sebuah kecamatan di Kabupaten Ciamis.  Setelah lama menjadi bagian dari Kabupaten Ciamis, muncul keinginan dari sejumlah tokoh masyarakat Pangandaran untuk berpisah dan membentuk kabupaten sendiri. Pada 1992, salah satu anggota DPRD Ciamis, yang juga tokoh masyarakat Cijulang yang bernama Haji Abdul Gofur mendapatkan informasi mengenai rencana pemekaran wilayah pesisir selatan Jawa Barat.
+<br>
+
+3. Fakta unik:<br>
+   - Kabupaten Pangandaran identik dengan Pantai Pangandaran, destinasi wisata di Desa Pangandaran dan Pananjung, sekitar 222 km dari selatan Bandung. <br>
+   - Kabupaten Pangandaran juga juga memiliki Cagar Alam Pangandaran yang merupakan rumah bagi berbagai flora dan fauna, beberapa di antaranya dilindungi. <br>
+   - Kabupaten Pangandaran juga memiliki Green Canyon yang oleh masyarakat setempat diberi nama Cukang Taneuh yang berarti jembatan tanah yang terbentuk secara alamiah melalui proses alam sehingga menghubungkan kedua tebing sungai. <br>
+   - Kabupaten Pangandaran juga memiliki juga Pantai Batu Karas yang terletak di Desa Batukaras, Kecamatan Cijulang dengan jarak 34 km dari Pangandaran. <br>
+   - Ronggeng Gunung, berupa seni tradisional asal Kabupaten Pangandaran dan Ciamis, Jawa Barat ini dibawakan sejumlah penari yang menari dengan musik gamelan. <br>
+   - Sebagai daerah yang kayak akan potensi baharinya, beragam kuliner khas laut ada di Kabupaten Pangandaran. Salah satunya adalah Ikan Jambal Roti. Untuk minuman, dikenal dengan Dawet Dewala <br>
+   - Kabupaten Pangandaran juga memiliki kesenian khas Jawa Tengah, Wayang Kulit. <br>
+
+### 12. KABUPATEN PURWAKARTA <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/b820e7ad-354c-47ad-8eff-9ebee13991e8)
+
+
+1. Deskripsi:<br>
+Kabupaten Purwakarta merupakan bagian dari wilayah Provinsi Jawa Barat. Sebelah Utara berbatasan dengan Kabupaten Karawang dan Kabupaten Subang, Sebelah Timur berbataan dengan Kabupaten Subang dan Kabupaten Bandung Barat, sebelah selatan berbatasan dengan Kabupaten Bandung Barat dan Kabupaten Cianjur, sebelah barat berbatasan dengan Kabupaten Karawang dan Kabupaten Cianjur dan Kabupaten Bogor.
+<br>
+
+2. Sejarah:<br>
+Awalnya, Purwakarta adalah bagian dari Kabupaten Karawang sampai  tahun 1949. Pada saat itu, Kabupaten Karawang mulai dipecah menjadi dua, yakni Karawang Bagian Timur menjadi Kabupaten Purwakarta dan Karawang Barat jadi Kabupaten Karawang. Nama Purwakarta berasal dari suku kata “purwa” dan “karta” yang memiliki arti "ramai" atau "hidup".
+Terletak di tengah kota besar antara Bandung dan Jakarta. Kini, nama Purwakarta sudah tak asing lagi bagi masyarakat luas. Purwakarta dikenal sebagai Kota Pensiunan lantaran suasananya yang jauh dari hiruk-pikuk kendaraan dan lalu-lalang manusia. Namun, julukan Kota Pensiun bagi Purwakarta sudah tak berlaku lagi. Pemerintah kabupaten menyulap Purwakarta dari tempat yang biasa saja menjadi luar biasa. Purwakarta saat ini telah dikenal masyarakat se-Indonesia bahkan ke mancanegara. Hal ini terjadi berkat pembangunan infrastruktur yang berbasis budaya.
+<br>
+
+3. Fakta unik:<br>
+   - Kabupaten Purwakarta dikenal sebagai tempat kelahiran beberapa negarawan dan pemimpin besar asal Jawa Barat pada awal berdirinya Republik Indonesia. Pahlawan yang lahir di tempat ini salah satunya yaitu Kusumah Atmaja <br>
+    - Purwakarta dikenal sebagai Kota Pensiunan lantaran suasananya yang jauh dari hiruk-pikuk kendaraan dan lalu-lalang manusia. <br>
+    - Purwakarta memiliki taman air mancur yang diklaim sebagai taman air mancur terbesar dan termegah se-Asia Tenggara <br>
+    - Purwakarta memiliki Gedung Negara yang Penuh Misteri. <br>
+    - Pencak silat merupakan salah satu kesenian bela diri yang popular. Namun, di Purwakarta kesenian popularnya yaitu Ibing Pencak Silat yang jadi warisan leluhur masyarakat. <br>
+    - Satai atau sate maranggi salah satu kuliner khas Purwakarta yang telah dikenal oleh berbagai daerah <br>
+
+
+
+### 13. KABUPATEN CIANJUR <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/60dba224-5978-4f53-b70f-e930de361386)
+
+
+
+1. Deskripsi:<br>
+Kabupaten Cianjur adalah sebuah wilayah administratif yang berada di pesisir selatan Provinsi Jawa Barat. Ibu kota Kabupaten Cianjur terletak di Kecamatan Cianjur.
+Keadaan wilayah Kabupaten Cianjur yang beribukota di Kecamatan Cianjur  berbatasan dengan Kabupaten Bogor dan Kabupaten Purwakarta di Utara; Kabupaten Bandung; Kabupaten Bandung barat dan Kabupaten garut di Timur; Samudra Hindia/Indonesia di Selatan; dan Kabupaten Sukabumi di Barat Hindia. Sebagian besar Wilayah Cianjur adalah pegunungan, kecuali di sebagian pantai selatan berupa daratan rendah yang sempit.
+<br>
+
+2. Sejarah:<br>
+Asal usul nama "Cianjur" sendiri berasal dari kata "Ci" yang berarti sungai dan "Hujur" yang berarti jauh. Jadi, Cianjur berarti "sungai yang jauh". Nama ini konon berasal dari legenda bahwa kota ini dulunya dikenal sebagai wilayah yang jauh dari ibu kota Kerajaan Sunda di Pakuan Pajajaran (sekarang Kota Bogor).
+
+Pada masa Kerajaan Sunda, Cianjur merupakan salah satu daerah yang termasuk dalam wilayah kekuasaan Kerajaan Pajajaran. Namun, setelah Kerajaan Pajajaran runtuh akibat penaklukan oleh Kesultanan Banten pada awal abad ke-16, Cianjur berada di bawah pengaruh Kesultanan Banten.
+
+Pada abad ke-18, Cianjur menjadi bagian dari wilayah kekuasaan Kesultanan Mataram. Pada masa ini, Cianjur mengalami perkembangan signifikan dalam bidang pertanian dan perdagangan. Pada akhir abad ke-18, VOC (Vereenigde Oost-Indische Compagnie) mendirikan kantor administratif di Cianjur untuk mengatur perdagangan dengan wilayah tersebut.
+
+Pada masa penjajahan Belanda, Cianjur menjadi bagian dari wilayah Hindia Belanda. Pemerintahan Belanda membentuk sistem pemerintahan yang baru di Cianjur, termasuk pembangunan infrastruktur seperti jalan raya, jembatan, dan gedung-gedung pemerintahan.
+
+Setelah kemerdekaan Indonesia pada tahun 1945, Cianjur menjadi bagian dari Provinsi Jawa Barat. Pada tanggal 15 Desember 2007, Cianjur resmi ditetapkan sebagai kota otonom melalui Undang-Undang Nomor 29 Tahun 2007 tentang Pembentukan Kota Cianjur.
+
+Sejak menjadi kota otonom, Cianjur terus mengalami perkembangan dalam berbagai bidang, termasuk ekonomi, infrastruktur, dan pariwisata. Kota ini juga memiliki potensi alam yang indah, seperti Danau Situ Cipondoh dan Pemandian Air Panas Cipanas, yang menjadi daya tarik wisatawan lokal maupun mancanegara.
+<br>
+
+3. Fakta unik:<br>
+   - Kabupaten Cianjur memiliki Situs Megalitikum Tertua di Dunia, Gunung Padang <br>
+   - Cianjur terkenal sebagai tempat lahirnya seni beladiri pencak silat. Ayo Main Po, salah satu unsur dari seni beladiri ini, telah membuat Cianjur dikenal luas sebagai salah satu pusat pencak silat. <br>
+   - Cianjur juga dikenal sebagai "kota santri" karena tradisi mengaji atau hos yang telah ada sejak lama di wilayah ini. Sejak tahun 1677, Cianjur telah menjadi tempat yang dirintis oleh para ulama dan santri untuk mengembangkan syiar Islam. <br>
+   - Tembang Sunda Cianjuran atau yang dikenal sebagai mamaos merupakan bagian dari kehidupan budaya Cianjur. <br>
+   - Kabupaten Cianjur memiliki Kebun Raya Cibodas, sebuah primadona pariwisata di daerah ini. <br>
+   - Istana Kepresidenan Cipanas terletak di Kabupaten Cianjur. Bangunan ini menjadi salah satu tujuan wisata populer di daerah ini. <br>
+   - Cianjur terkenal sebagai penghasil beras Pandan Wangi <br>
+   
+
+
+### 14. KABUPATEN SUBANG <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/60dba224-5978-4f53-b70f-e930de361386)
+
+
+
+1. Deskripsi:<br>
+Subang merupakan salah satu daerah kabupaten yang ada di provinsi Jawa Barat. Subang berbatasan dengan Laut Jawa di utara, Kabupaten Indramayu di timur, Kabupaten Bandung Barat di selatan, dan Kabupaten Purwakarta serta Kabupaten Karawang di barat. Kabupaten ini juga dilintasi jalur yang paling sibuk di Pulau Jawa terlebih saat Lebaran yakni Jalur Pantura. Kecamatan yang berada di jalur ini yakni Ciasem dan Pamanukan.
+
+<br>
+
+3. Sejarah:<br>
+Pertama, kata Subang disebut berasal dari nama seorang wanita yang ada di Babad Siliwangi, yaitu Subangkarancang atau Subanglarang. Hal tersebut semakin diperkuat dengan adanya kisah wanita tersebut di Babad Pajajaran. Dalam cerita Babad Pajajaran tersebut dikisahkan terdapat sebuah pesantren di daerah Karawang yang dikelola oleh Syeh Datuk Quro yang memiliki satu santriwati bernama Subanglarang atau Subangkarancang. Subanglarang tersebut merupakan putri dari Ki Jamajan Jati.
+
+Seiring berjalannya waktu, Subanglarang dipersunting oleh Prabu Siliwangi atau Raja Pajajaran saat itu, Raden Pamanahrasa. Dari perkawinan tersebut lahir dua orang anak yang bernama Raden Walangsungsang dan Ratu Rarasantang.
+
+Kabupaten Subang, disebutkan bahwa Kota Nanas ini sudah ditempati masyarakat sejak masa prasejarah. Hal tersebut dibuktikan dengan adanya penemuan kapak batu neolitikum di daerah Bojongkeding (Binong), Kalijati, Dayeuhkolot (Sagalaherang), dan Pagaden. Penemuan tersebut menunjukkan bahwa wilayah Kabupaten Subang saat itu ditempati masyarakat yang bergerak di sektor pertanian sederhana.
+
+Penemuan lain yang membuktikan adanya kehidupan prasejarah di Kabupaten Subang adalah situs Kampung Engkel di Sagalaherang. Situs tersebut menunjukkan berkembangnya kebudayaan perunggu di Subang.
+
+Wilayah Subang juga disebut sebagai salah satu wilayah kekuasaan dari tiga kerajaan Hindu, yaitu Galuh, Pajajaran, dan Tarumanegara. Hal tersebut diperkuat dengan adanya penemuan pecahan-pecahan keramik asal Cina di Patenggeng (Kalijati) yang menunjukkan adanya kontak perdagangan oleh kerajaan di abad ke-7 dan ke-15.
+
+Subang juga disebut sebagai salah satu daerah yang dikuasai oleh Kerajaan Sunda. Hal tersebut disampaikan oleh Tome' Pires dari Portugis yang menyusuri pantai utara Jawa. Ia menyebutkan bahwa kawasan timur Sungai Cimanuk sampai Banten adalah wilayah Kerajaan Sunda.
+
+Kemudian Subang juga menjadi salah satu daerah kebudayaan Islam. Pada tahun 1539, Wangsa Goparana, salah satu tokoh islam dari Talaga, Majalengka membuka pemukiman di Sagalaherang dan menyebarkan agama Islam di wilayah Subang.
+
+Kemudian pada masa kolonialisme, wilayah Subang utara menjadi jalur logistik pasukan Sultan Agung dari Mataram untuk menyerang Belanda di Batavia. Beberapa pasukan Sultan Agung urung kembali ke Mataram dan menetap di Subang, sehingga turut menyebarkan budaya Jawa di tanah Subang.
+
+Sejak tahun 1771, wilayah Subang, tepatnya di Pamanukan, Pagaden, dan Ciasem sudah dipimpin oleh seorang Bupati secara turun-temurun. Kemudian pada masa pemerintahan Gubernur Jenderal Thomas Stamford Raffles (1811-1816), konsesi penguasaan lahan Subang diberikan kepada pihak swasta dari Eropa. Kemudian pada tahun 1812 tercatat sebagai awal kepemilikan lahan yang kemudian terbentuknya perusahaan P&T Land.
+
+Kemudian penguasaan lahan seluas 212.900 hektar tersebut beralih ke pemerintahan Kerajaan Belanda. Pemerintah Belanda pun membentuk distrik-distrik untuk membawahi wilayah onderdistrik untuk melaksanakan pemerintahan daerah. Saat itu, wilayah Subang dipimpin oleh seorang Kontrolir BB (binnenlands bestuur).
+<br>
+
+3. Fakta unik:<br>
+   - Kabupaten Subang biasa dijuluki sebagai Kota Nanas karena memiliki banyak komoditas nanas dari para petaninya <br>
+   - Nanas khas Subang yang bernama Simadu merupakan ikon kabupaten ini <br>
+   - Subang mempunyai desa yang namanya tak biasa yakni Desa Siluman <br>
+   - Di Subang ada tradisi unik bernama Gantangan. Keunikannya yakni bila ada warga yang punya hajat, bisa “berutang” pada masyarakat setempat, baik uang atau bahan pokok. <br>
+   - Subang memiliki banyak wisata alam yang menarik untuk dikunjungi, salah satunya Bukit Pamoyanan. Bukit ini bahkan disebut sebut sebagai 'negeri di atas awan tanah Pasundan'. Berlokasi di Desa Kawungluwuk, Tanjungsiang, bukit ini menawarkan pengalaman menyaksikan sunrise yang indah. <br>
+   - Subang mempunyai pertunjukan rakyat bernama Sisingaan. <br>
+
+
+### 15. KABUPATEN INDRAMAYU <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/60dba224-5978-4f53-b70f-e930de361386)
+
+
+
+1. Deskripsi:<br>
+Kabupaten Indramayu adalah sebuah kabupaten di Provinsi Jawa Barat, Indonesia. Ibukotanya adalah Indramayu, Indramayu sebagai pusat pemerintahan, titik keramaian yang ada di Indramayu terletak di Jatibarang. Kabupaten ini berbatasan dengan Laut Jawa di utara, Kabupaten Cirebon di tenggara, Kabupaten Majalengka dan Kabupaten Sumedang, serta Kabupaten Subang di barat. Kabupaten Indramayu terdiri atas 31 kecamatan, yang dibagi lagi atas sejumlah 313 desa dan kelurahan. Pusat pemerintahan di Kecamatan Indramayu, yang berada di pesisir Laut Jawa.
+
+<br>
+
+3. Sejarah:<br>
+Sejarah Kabupaten Indramayu berkaitan erat dengan Raden Arya Wiralodra dan sosok Nyi Endang Darma yang memiliki kecantikan yang luar biasa. Diceritakan bahwa Raden Arya Wiralodra merupakan anak dari Tumenggung Gagak Singalodra dari Banyu Urip di Bagelen. Arya Wiralodra memiliki cita-cita besar yaitu membuka daerah baru yang bisa diturunkan kepada anak keturunannya. Maka Arya Wiralodra melakukan tapa brata di Gunung Sumbing selama tiga tahun untuk meminta petunjuk daerah mana yang bisa dibuka. Di akhir pertapaannya, Arya Wiralodra mendapat wangsit agar pergi dan membuka hutan di lembah Sungai Cimanuk. Berangkatlah Arya Wiralodra dengan ditemani oleh Ki Tinggil mencari daerah lembah Sungai Cimanuk. Dalam perjalannya, Arya Wiralodra terus berjalan ke arah barat hingga hingga sampai kepada Sungai Citarum. Rupanya Sungai Cimanuk yang dicarinya sudah terlewat. Arya Wiralodra dan Ki Tinggil lantas berbalik arah ke timur. Hingga akhirnya kedua orang itu berhasil sampai ke aliran Sungai Cimanuk. Keduanya lantas membuka hutan di sana dan membangun perdukuhan yang luas. Usai membuka hutan, Arya Wiralodra pulang ke Banyu Urip untuk menyampaikan keberhasilan itu kepada orang tuanya.
+
+Saat Arya Wiralodra tidak ada, datang seorang wanita cantik bernama Nyi Endang Dharma ke pedukuhan baru itu yang dijaga oleh Ki Tinggil. Di sana, Nyi Endang Dharma yang cantik jelita turut serta dalam membangun pedukuhan tersebut. Hingga suatu hari datanglah Pangeran Guru dan 24 muridnya. Perselisihan tidak terhindarkan antara Pangeran Guru dengan Nyi Endang Dharma. Keduanya lantas terlibat pertempuran. Namun pertempuran berakhir dengan kemenangan Nyi Endang Dharma, sedangkan Pangeran Guru dan semua muridnya tewas. Ki Tinggil yang menyaksikan hal itu lantas menceritakannya kepada Raden Arya Wiralodra. Arya Wiralodra yang mendengar cerita itu muncul keinginan untuk menjajal kesaktian Nyi Endang Dharma. Keduanya kemudian terlibat perkelahian. Nyi Endang Dharma yang terdesak lantas memilih mundur. Sebelum menghilang, Nyi Endang Dharma berpesan agar Raden Arya Wiralodra tidak melupakan jasa-jasanya yang turut membangun pedukuhan baru itu. Namun dalam versi yang lain disebutkan bahwa Nyi Endang Dharma ini merupakan istri dari Raden Arya Wiralodra. Maka, Raden Arya Wiralodra kemudian menamakan pedukuhannya dengan nama Dharma Ayu. Dharma diambil dari nama Nyi Endang Dharma. Sedangkan Ayu diambil dari kecantikan wanita tersebut. Dalam perkembangannya, penyebutan nama daerah ini berubah menjadi Dermayu, In Darmayu, dan kemudian Indramayu hingga sekarang. Raden Arya Wiralodra tercatat sebagai pendiri sekaligus Bupati Pertama Indramayu.
+<br>
+
+3. Fakta unik: <br>
+   - Kota Mangga merupakan salah satu julukan Kabupaten Indramayu. <br>
+   - Mangga asal Indramayu disebut Mangga Cengkir oleh masyarakat sekitar. Adapula yang menyebutnya Mangga Gedong gincu <br>
+   - Subang mempunyai desa yang namanya tak biasa yakni Desa Siluman <br>
+   - Meskipun terletak di Provinsi Jawa Barat, sebagian besar warga Indramayu di wilayah utara menggunakan bahasa Dermayon <br>
+   - Indramayu terkenal akan produksi padinya yang melimpah<br>
+   - Buah mangga dalam Bahasa Indramayu disebut Pelem <br>
+   - Tradisi Mapag Dewi Sri merupakan wujud rasa syukur warga Indramayu atas hasil panen yang diterima. <br>
+   - Indramayu terkenal dengan kudapan bernama Orog-orog <br>
