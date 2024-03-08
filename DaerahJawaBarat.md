@@ -3,315 +3,175 @@
 ### 1. KOTA BANDUNG <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/07b81a72-2c38-4212-95db-31a847e27241)
 
+1. Deskripsi: <br>
 Kota Bandung terletak di wilayah Jawa Barat dan merupakan Ibukota Provinsi Daerah Tingkat I Jawa Barat.
 Kota Bandung terletak diantara 107 0 Bujur Timur dan 6 0 55' Lintang Selatan. Lokasi Kotamadya Bandung cukup strategis, dilihat dari segi komunikasi,
-perekonomian maupun keamanan.
+perekonomian maupun keamanan. <br>
 
-Ibukota: Bandung <br>
-Luas: 167,67 km² <br>
-Penduduk: 2.444.160 jiwa (2020) <br>
-Kecamatan: 30 <br>
-Kelurahan: 151 <br>
-Wisata: <br>
-Alam: Tangkuban Perahu, Kawah Putih, Gunung Tangkuban Perahu <br>
-Budaya: Saung Angklung Udjo, Museum Konferensi Asia Afrika,Gedung Sate <br>
-Kuliner: Mi Kocok, Batagor Kingsley, Surabi Cihapit <br>
-Sejarah: Didirikan pada tahun 1810 oleh Belanda <br>
-Menjadi pusat pemerintahan Hindia Belanda pada masa kolonial <br>
-Dikenal sebagai "Kota Kembang" dan "Paris Van Java" <br>
-Hal Unik:
-Festival Kawalu, Alun-alun Bandung, Gedung Sate, Teras Cikapundung <br>
+2. Sejarah: <br>
+Bandung, kota yang dijuluki "Kota Kembang" dan "Paris Van Java", menyimpan sejarah panjang dan berbagai keunikan. Didirikan pada tahun 1810 oleh Belanda, Bandung berkembang pesat dan menjadi pusat pemerintahan Hindia Belanda di masa kolonial. Kota ini menjadi saksi bisu Konferensi Asia Afrika tahun 1955 dan memiliki banyak bangunan bersejarah, seperti Gedung Sate, Museum Konferensi Asia Afrika, dan Saung Angklung Udjo. <br>
+
+3.Fakta Unik: <br>
+  -Keunikan Bandung terletak pada keindahan alamnya yang dihiasi berbagai bunga, arsitekturnya yang indah, dan suasana kotanya yang romantis. <br>
+  -Kota ini terkenal dengan keramahan penduduknya, memiliki banyak festival budaya yang menarik, dan menawarkan berbagai tempat wisata unik, seperti Teras           Cikapundung dan Alun-alun Bandung. <br>
+  -Bandung merupakan kota kelahiran beberapa tokoh terkenal dan tempat berdirinya Institut Teknologi Bandung (ITB), salah satu perguruan tinggi terbaik di            Indonesia. <br>
+  -Kota ini juga terkenal dengan moda transportasinya yang unik, yaitu angkot. <br>
 
 ### 2. KOTA BANJAR <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/401c09f8-2d14-49ca-af23-16787b53da41)
 
-Kota Banjar (nama julukannya bernama Banjar Patroman atau Banjar Pataruman, aksara Sunda: ᮘᮔ᮪ᮏᮁ) adalah sebuah kota di Provinsi Jawa Barat, Indonesia. 
-Kota Banjar berlokasi di perbatasan dengan Provinsi Jawa Tengah, yakni dengan Kabupaten Cilacap sehingga kota ini sering disebut sebagai "gerbangnya Jawa Barat". Pada tahun 2021, 
-jumlah penduduk kota Banjar sebanyak 205.579 jiwa, dengan kepadatan 1.811 jiwa/km2.
+1. Deskripsi: <br>
+Kota Banjar, dijuluki "Kota Banjar Patroman", terletak di Jawa Barat, berbatasan dengan Jawa Tengah. Kota ini resmi berdiri di tahun 2002 setelah sebelumnya menjadi bagian dari Kabupaten Ciamis. Dengan luas 113,49 km², Banjar dihuni oleh 205.579 jiwa (2021) dan terbagi dalam 4 kecamatan dan 16 kelurahan. <br>
 
-Ibukota: Banjar <br>
-Luas: 113,49 km² <br>
-Penduduk: 205.579 jiwa (2021) <br>
-Kecamatan: 4 <br>
-Kelurahan: 16 <br>
-Wisata:
-Alam: Situ Mustika, Pantai Pangandaran, Taman Margasatwa Ragunan <br>
-Budaya: Keraton Kacirebonan, Festival Pamungkas <br>
-Kuliner: Docang, Sambal Cumi Asin, Nasi Jamblang <br>
-Sejarah: Didirikan pada tahun 2002
-Dulunya merupakan bagian dari Kabupaten Ciamis
-Dikenal sebagai "Kota Banjar Patroman" <br>
-Hal Unik:
-Festival Pamungkas, Keraton Kacirebonan, Situs Cipari, Saung Angklung Udjo <br>
+2. Sejarah: <br>
+Kota Banjar, dijuluki "Kota Banjar Patroman", memiliki sejarah panjang yang terjalin erat dengan Kerajaan Galuh dan Kawali. Pada masa kolonial Belanda, wilayah Banjar menjadi bagian dari Kabupaten Ciamis. Baru pada tahun 2002, Banjar resmi memisahkan diri dan menjadi kota mandiri. Sejak itu, Banjar terus berkembang pesat dan menjadi gerbang penting bagi Jawa Barat, menghubungkan wilayah Jawa Barat dan Jawa Tengah. <br>
+
+3. Fakta Unik: <br>
+  -Dijuluki "Kota Banjar Patroman" <br>
+  -Memiliki Festival Pamungkas yang meriah <br>
+  -Memiliki Keraton Kacirebonan yang bersejarah <br>
+  -Memiliki Situs Cipari yang menyimpan peninggalan sejarah <br>
+  -Memiliki Situ Mustika yang indah. <br>
 
 ### 3. KOTA BEKASI <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/dcd6c908-5bee-4d51-85a5-2fee53b69216)
 
+1. Deskripsi: <br>
 Kota Bekasi adalah salah satu kota di provinsi Jawa Barat, Indonesia, yang berbatasan langsung dengan DKI Jakarta. 
 Nama Bekasi berasal dari kata Bagasasi yang artinya sama dengan Candrabaga yang tertulis di dalam Prasasti Tugu era Kerajaan Tarumanegara, 
 yaitu nama sungai yang melewati kota ini. Pada pertengahan tahun 2023, jumlah penduduk kota Bekasi berjumlah 2.496.198 jiwa.
 Kota Bekasi merupakan bagian dari metropolitan Jakarta Raya atau Jabodetabekpunjur dan menjadi Kota satelit dengan jumlah penduduk terbanyak se-Indonesia. 
-Saat ini Kota Bekasi berkembang menjadi tempat tinggal kaum urban dan sentra industri.
+Saat ini Kota Bekasi berkembang menjadi tempat tinggal kaum urban dan sentra industri. <br>
 
-Ibukota: Bekasi Selatan <br>
-Luas: 210,04 km² <br>
-Penduduk: 2.496.198 jiwa (2023) <br>
-Kecamatan: 12 <br>
-Kelurahan: 107 <br>
-Wisata:
-Alam: Danau Situ Gede, Taman Buaya Tanjung Pasir <br>
-Budaya: Klenteng Hok Lay Kiong, Museum Bekasi <br>
-Kuliner: Kue Sugu, Soto Tangkar, Dodol Betawi <br>
-Sejarah: Didirikan pada tahun 1997
-Dulunya merupakan bagian dari Kabupaten Bogor
-Menjadi bagian dari Jabodetabekpunjur <br>
-Hal Unik:
-Festival Bekasi Kreatif, Hutan Kota Bekasi, Grand Metropolitan Mall, Taman Galaxy <br>
+2. Sejarah: <br>
+Kota Bekasi, dijuluki "Mutiara Metropolitan", memiliki sejarah panjang yang terhubung dengan Kerajaan Tarumanegara. Nama Bekasi berasal dari kata "Bagasasi", yang berarti sama dengan Candrabaga, nama sungai yang terukir di Prasasti Tugu era Tarumanegara. Didirikan pada tahun 1997, Bekasi memisahkan diri dari Kabupaten Bogor dan berkembang pesat menjadi bagian penting dari metropolitan Jakarta Raya (Jabodetabekpunjur). Saat ini, Bekasi menjadi kota satelit dengan jumlah penduduk terbanyak di Indonesia, dan terus berkembang sebagai tempat tinggal kaum urban dan sentra industri. <br>
+
+3. Fakta Unik: <br>
+  -Dijuluki "Mutiara Metropolitan" karena perkembangan pesatnya sebagai bagian dari Jabodetabekpunjur. <br>
+  -Menjadi kota satelit dengan jumlah penduduk terbanyak di Indonesia. <br>
+  -Memiliki Festival Bekasi Kreatif yang meriah dan penuh warna. <br> 
+  -Menawarkan wisata alam di Danau Situ Gede dan Taman Buaya Tanjung Pasir. <br>
+  -Melestarikan budaya di Klenteng Hok Lay Kiong dan Museum Bekasi. <br>
+  -Terkenal dengan kuliner khas seperti Kue Sugu, Soto Tangkar, dan Dodol Betawi. <br>
+  -Memiliki Hutan Kota Bekasi yang asri dan Grand Metropolitan Mall yang modern. <br>
+  -Menjadi lokasi Taman Galaxy, hunian modern yang terencana dan asri. <br>
 
 ### 4. KOTA BOGOR <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/c712f953-f66e-4e29-b143-b5187d0802fe)
 
-Kota Bogor adalah sebuah kota yang terletak di provinsi Jawa Barat, Indonesia. Kota ini terletak 59 km di sebelah selatan Jakarta, dan merupakan enklave Kabupaten Bogor. 
-Pada pertengahan tahun 2023, jumlah penduduk Kota Bogor sebanyak 1.122.772 jiwa, dengan kepadatan 10.001 jiwa/km².
-Kota Bogor dikenal dengan julukan Kota Hujan, karena memiliki curah hujan yang lumayan sangat tinggi. Kota Bogor terdiri atas 6 kecamatan yang dibagi lagi atas sejumlah 68 kelurahan. 
-Pada masa Kolonial Belanda, Kota Bogor dikenal dengan nama Buitenzorg yang berarti tanpa kecemasan atau aman tentram. 
+1. Deskripsi: <br>
+Kota Bogor, yang terletak 59 km selatan Jakarta, merupakan enklave di Kabupaten Bogor dan terkenal dengan julukan "Kota Hujan" karena curah hujannya yang tinggi. Kota ini memiliki luas 118,50 km² dan dihuni oleh 1.122.772 jiwa (2023) yang terbagi dalam 6 kecamatan dan 68 kelurahan. <br>
 
-Ibukota: Bogor Tengah <br>
-Luas: 118,50 km² <br>
-Penduduk: 1.122.772 jiwa (2023) <br>
-Kecamatan: 6 (Bogor Tengah, Bogor Selatan, Bogor Timur, Bogor Utara, Bogor Barat, Tanah Sareal) <br>
-Kelurahan: 68 <br>
-Wisata:
-Alam:
-Kebun Raya Bogor
-Puncak
-Gunung Gede Pangrango <br>
-Budaya:
-Istana Bogor <br>
-Museum Zoologi <br>
-Kuliner: 
-Doclang
-Soto Bogor
-Bolu Bogor <br>
-Sejarah:
-Didirikan pada tahun 1745
-Dikenal sebagai "Kota Hujan" dan "Kota Bunga"
-Menjadi tempat peristirahatan para gubernur jenderal Hindia Belanda <br>
-Hal Unik:
-Festival Cap Go Meh
-Kebun Raya Bogor
-Istana Bogor
-Museum Zoologi <br>
+2. Sejarah: <br>
+Kota Bogor, dijuluki "Kota Hujan" dan "Kota Bunga", menyimpan sejarah panjang sejak tahun 1745. Dijuluki "Buitenzorg" oleh Belanda, kota ini menjadi tempat peristirahatan favorit para gubernur jenderal Hindia Belanda. Jejak sejarahnya terlihat di Istana Bogor yang megah dan Kebun Raya Bogor yang ikonik. Museum Zoologi dan Museum Nasional Sejarah Alam Indonesia melengkapi wisata sejarah di Bogor. <br>
+
+3. Fakta Unik: <br>
+  -Dijuluki "Kota Bunga" karena keindahan taman dan kebunnya. <br>
+  -Menawarkan wisata alam yang memukau di Kebun Raya Bogor, Puncak, dan Gunung Gede Pangrango. <br>
+  -Menyimpan sejarah di Istana Bogor dan Museum Zoologi. <br>
+  -Terkenal dengan kuliner khas seperti Doclang, Soto Bogor, dan Bolu Bogor. <br>
+  -Merayakan Festival Cap Go Meh yang meriah dan penuh warna. <br>
 
 ### 5. KOTA CIMAHI <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/e9828048-d117-46dc-8884-5c903d138dec)
 
-Kota Cimahi adalah sebuah kota yang berada di Jawa Barat, Indonesia. Sebelumnya kota ini masih menjadi bagian dari Kabupaten Bandung hingga ditetapkan sebagai kota administratif pada 
-29 Januari 1976 dan akhirnya ditetapkan sebagai kota pada 21 Juni 2001. Kota Cimahi terdiri atas 3 kecamatan dan 15 kelurahan.
+1. Deskripsi: <br>
+Kota Cimahi, yang terletak di Jawa Barat, Indonesia, menawarkan pesona unik perpaduan antara nuansa militer, jejak sejarah, dan keramahan penduduknya. Dijuluki "Kota Militer", Cimahi memiliki beberapa markas militer yang menjadikannya pusat kegiatan dan budaya militer di Jawa Barat. <br>
 
-Ibukota: Cimahi Tengah <br>
-Luas: 39,27 km² <br>
-Penduduk: 1.245.449 jiwa (2020) <br> 
-Kecamatan: 3 (Cimahi Utara, Cimahi Tengah, Cimahi Selatan) <br>
-Kelurahan: 15 <br>
-Julukan: Kota Militer <br>
-Wisata: <br>
-Alam: 
-Tangkuban Perahu: Kawah gunung berapi yang terkenal dengan legenda Sangkuriang.
-Curug Cimahi: Air terjun dengan pemandangan yang indah dan udara yang sejuk.
-Taman Maribaya: Tempat wisata alam yang menawarkan berbagai aktivitas seperti berenang, camping, dan outbound. <br>
-Budaya:
-Museum Pusdikif: Museum yang menyimpan koleksi sejarah militer Indonesia, khususnya yang berkaitan dengan Pusat Pendidikan Infanteri (Pusdikif).
-Alun-alun Cimahi: Ruang terbuka hijau yang menjadi pusat keramaian dan kegiatan masyarakat. <br>
-Kuliner:
-Cireng Salju: Cireng (makanan terbuat dari tepung tapioka) yang disajikan dengan saus kacang dan mayonaise.
-Bandros: Kue tradisional yang terbuat dari tepung terigu, telur, dan santan, dibakar dengan cetakan khusus.
-Mie Kocok Cimahi: Mie yang disajikan dengan kuah kaldu sapi, kikil, dan tauge. <br>
-Sejarah:
-Kota Cimahi didirikan pada tahun 2001 dan sebelumnya merupakan bagian dari Kabupaten Bandung.
-Kota ini dikenal sebagai "Kota Militer" karena keberadaan beberapa instansi militer seperti Pusat Pendidikan Infanteri (Pusdikif) dan Batalyon Infanteri Para Raider 330 Kostrad.
-Perkembangan Kota Cimahi pesat ditandai dengan berdirinya berbagai bangunan seperti pusat perbelanjaan, rumah sakit, dan universitas. <br>
-Hal Unik:
-Festival Cimahi Milenial: Festival tahunan yang menampilkan berbagai kegiatan bertemakan kemiliteran dan kreativitas anak muda.
-Paralayang Ciburial: Olahraga paralayang yang dapat dinikmati di kawasan Ciburial dengan pemandangan Kota Cimahi dan sekitarnya.
-Pusat oleh-oleh khas Cimahi: Terdapat berbagai toko yang menjual oleh-oleh khas Cimahi seperti cireng, bandros, dan kerajinan tangan. <br>
+2. Sejarah: <br>
+Didirikan pada tahun 1813 sebagai benteng pertahanan Belanda, Cimahi memiliki peran penting dalam sejarah perjuangan kemerdekaan Indonesia. Jejak sejarahnya dapat ditemukan di berbagai situs bersejarah, seperti Museum Pusdikif, yang menyimpan koleksi benda-benda bersejarah dari masa kolonial hingga kemerdekaan. <br>
+
+3. Fakta Unik: <br>
+  -Dijuluki "Kota Militer": Keberadaan beberapa markas militer seperti Pusdikif, Rindam III Siliwangi, dan Secapa AD menjadikannya pusat kegiatan dan budaya          militer di Jawa Barat. <br>
+  -Museum Pusdikif: Menyimpan koleksi benda-benda bersejarah dari masa kolonial hingga kemerdekaan. <br>
+  -Landmark Unik: Tugu Siliwangi menjadi simbol perjuangan rakyat Jawa Barat. <br>
+  -Tempat Kelahiran Tokoh Terkenal: Kota Cimahi merupakan kampung halaman penyanyi Isyana Sarasvati dan komedian Entis Sutisna (Sule). <br>
+  -Tradisi Unik: Upacara Seren Tahun, tradisi menyambut Tahun Baru Islam, menjadi kekayaan budaya yang menarik. <br>
+  -Penduduk yang Ramah: Keramahan penduduk Cimahi terkenal dan selalu menyambut wisatawan dengan hangat. <br>
+  -Aktif dalam Berkesenian: Kota ini memiliki berbagai komunitas seni dan budaya yang aktif dalam kegiatan pelestarian budaya. <br>
+  -Kota Pendidikan: Cimahi menjadi salah satu kota tujuan pendidikan di Jawa Barat dengan keberadaan beberapa perguruan tinggi ternama. <br>
+  -Potensi Wisata Alam: Selain sejarah dan budaya, Cimahi menawarkan wisata alam seperti Gunung Bohong dan Curug Cinulang. <br>
 
 ### 6. KOTA CIREBON <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/63a25b63-c58a-4582-ad82-4eff0e928444)
 
-Kota Cirebon adalah salah satu kota yang berada di provinsi Jawa Barat, Indonesia. Kota ini berada di pesisir utara Pulau Jawa yang menghubungkan Jakarta dengan Surabaya di lintas utara dan tengah Jawa. 
-Pada pertengahan tahun 2023, jumlah penduduk kota Cirebon sebanyak 348.912 jiwa, dengan kepadatan 9.194 jiwa/km2.
+1. Deskripsi: <br>
+Kota Cirebon, yang terletak di pesisir utara Jawa Barat, menawarkan perpaduan unik budaya dan sejarah. Dulunya, Cirebon merupakan bagian dari Kesultanan Cirebon, kerajaan Islam terbesar di Jawa Barat sebelum abad ke-17. Kini, kota ini terkenal sebagai tujuan wisata budaya dan kuliner, dengan berbagai peninggalan sejarah dan kuliner khas yang menarik untuk dijelajahi. <br>
 
-Ibukota: Kecamatan Lemahwungkuk <br>
-Luas: 37,42 km² <br>
-Penduduk: 348.912 jiwa (2023) <br>
-Kecamatan: 5 (Harjamukti, Kesambi, Lemahwungkuk, Pekalipan, Kejaksan) <br>
-Kelurahan: 42 <br>
-Wisata: <br>
-Sejarah & Budaya: <br>
-Keraton Kasepuhan: Istana Kesultanan Cirebon tertua yang masih berdiri. <br>
-Keraton Kacirebonan: Istana Kesultanan Cirebon yang didirikan pada abad ke-17. <br>
-Batik Trusmi: Desa penghasil batik terkenal dengan motif khas Cirebon. <br>
-Makam Sunan Gunung Jati: Makam pendiri Kesultanan Cirebon. <br>
-Museum Pusaka Keraton Cirebon: Museum yang menyimpan koleksi benda-benda bersejarah Kesultanan Cirebon. <br>
-Alam:
-Pantai Kejawanan: Pantai yang populer untuk berenang, berjemur, dan menikmati pemandangan laut. <br>
-Taman Air Goa Sunyaragi: Taman air dengan suasana khas budaya Cirebon. <br>
-Telaga Langit: Danau buatan yang menjadi tempat favorit untuk bersantai. <br>
-Kuliner: 
-Empal Gentong: Masakan berbahan dasar daging sapi yang dimasak menggunakan gentong (periuk tanah liat). <br>
-Nasi Jamblang: Nasi dengan lauk pauk yang dibungkus daun jati. <br>
-Tahu Gejrot: Tahu goreng yang disajikan dengan kuah pedas manis. <br> 
-Kerupuk Melinjo: Kerupuk khas Cirebon yang terbuat dari melinjo. <br>
-Sejarah:
-Didirikan pada abad ke-15 sebagai pelabuhan penting di jalur perdagangan rempah-rempah.
-Pernah menjadi Kesultanan Cirebon yang berpengaruh di Jawa Barat.
-Kota Cirebon dikenal sebagai kota budaya dengan warisan sejarah yang kaya.<br>
-Hal Unik:
-Tradisi "Naru": Upacara adat untuk menyambut bulan suci Ramadan.
-Tari Topeng: Tarian tradisional yang menggunakan topeng sebagai properti.
-Batik Trusmi: Motif batik khas Cirebon dengan makna filosofis yang mendalam.
-Kuliner khas: Empal Gentong, Nasi Jamblang, Tahu Gejrot, Kerupuk Melinjo. <br>
+2. Sejarah: <br>
+Kesultanan Cirebon, yang didirikan pada abad ke-15, memainkan peran penting dalam penyebaran agama Islam di Jawa Barat. Peninggalan sejarah Kesultanan Cirebon masih dapat dilihat di berbagai tempat di kota ini, seperti Keraton Kasepuhan, Keraton Kacirebonan, dan Masjid Agung Sang Cipta Rasa. <br>
+
+3. Fakta Unik: <br>
+-Cirebon memiliki banyak tradisi unik, seperti "ruwatan" yang merupakan upacara pembersihan diri dari segala malapetaka. <br>
+-Kota ini juga memiliki Chinatown, salah satu Chinatown tertua di Indonesia, dengan bangunan tua dan toko-toko yang menjual barang khas Tionghoa. <br>
+-Setiap tahun, Kota Cirebon menggelar "Sunda Kelapa", yaitu pesta rakyat yang menampilkan budaya dan kesenian daerah. <br>
+-Selain itu, Cirebon juga terkenal dengan batiknya yang khas, dengan motif dan warna yang mencerminkan pengaruh budaya Tionghoa, Arab, dan Jawa. <br>
 
 ### 7. KOTA DEPOK <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/34bdb2fd-7cbf-4006-806a-6d8f51bce344)
 
-Kota Depok adalah sebuah kota yang terletak di Provinsi Jawa Barat, Indonesia. Kota Depok merupakan bagian dari kawasan metropolitan Jabodetabekpunjur dan berada di bagian selatan Daerah Khusus Ibukota Jakarta. 
-Kota Depok dibentuk dari wilayah Kota Administratif Depok dengan penambahan wilayah dari Kecamatan Limo, Kecamatan Cimanggis, dan Kecamatan Sawangan, serta sebagian desa dari Kecamatan Bojonggede yang digabungkan dengan Kecamatan Pancoran Mas.
-Tanggal peresmian Kota Depok ditetapkan sebagai Hari Jadi Kota Depok. Jumlah penduduk kota Depok berdasarkan data Kementerian Dalam Negeri Republik Indonesia pada pertengahan tahun 2023 sebanyak 1.927.867 jiwa.
+1. Deskripsi: <br>
+Kota Depok, yang terletak di Jawa Barat, menawarkan perpaduan unik antara suasana urban dan pinggiran. Di satu sisi, terdapat area komersial yang ramai. Di sisi lain, terdapat banyak ruang terbuka hijau dan perumahan yang tenang, menjadikannya tempat ideal untuk keluarga dan pelajar. <br>
 
-Ibukota: Kecamatan Pancoran Mas <br>
-Luas: 200,29 km² <br>
-Penduduk: 1.927.867 jiwa (2023) <br>
-Kecamatan: 11 (Beji, Bojonggede, Cipayung, Cilodong, Cinere, Cimanggis, Depok, Limo, Pancoran Mas, Sawangan, Sukmajaya) <br>
-Kelurahan: 63 <br>
-Wisata: <br>
-Alam:
-Setu Babakan: Danau buatan yang menjadi area rekreasi dan konservasi.
-Taman Margonda: Ruang terbuka hijau yang populer untuk berolahraga dan bersantai.
-Hutan Kota Depok: Area hijau yang cocok untuk wisata alam dan edukasi lingkungan. <br>
-Sejarah & Budaya:
-Museum Nasional Keramik: Museum yang menyimpan koleksi keramik dari berbagai negara dan era.
-Masjid Dian Al-Mahriq: Masjid terbesar di Kota Depok dengan arsitektur yang megah.
-Kampung Cinangka: Kampung budaya Betawi dengan rumah adat dan kesenian tradisional. <br>
-Kuliner:
-Gulai Kambing: Masakan khas Betawi dengan kuah santan dan bumbu rempah.
-Soto Depok: Soto dengan kuah bening dan isian daging sapi atau ayam.
-Martabak Tegal: Martabak manis atau asin khas Tegal yang populer di Depok.
-Toge Goreng: Makanan ringan berupa tauge yang digoreng dengan bumbu kacang. <br>
-Sejarah:
-Didirikan pada tahun 1999 sebagai kota administratif, memisahkan diri dari Kabupaten Bogor.
-Kota Depok berkembang pesat menjadi pusat pendidikan, pemerintahan, dan bisnis.
-Dikenal sebagai "Kota Belimbing" karena dulunya merupakan penghasil buah belimbing yang melimpah <br>.
-Hal Unik:
-Julukan "Kota Belimbing": Meskipun produksi belimbing sudah berkurang, julukan ini masih melekat pada Kota Depok.
-Kota termuda di Jawa Barat: Kota Depok merupakan kota termuda di Jawa Barat yang diresmikan pada tahun 1999.
-Pusat pendidikan: Kota Depok memiliki banyak perguruan tinggi ternama, seperti Universitas Indonesia (UI) dan Universitas Gunadarma.
-Festival Depok City of Love: Festival tahunan yang menampilkan berbagai kegiatan bertemakan cinta dan budaya. <br>
+2. Sejarah: <br>
+Sejarah Depok terhubung dengan masa penjajahan Belanda, di mana wilayah ini menjadi perkebunan. Pada tahun 1999, Depok resmi menjadi kota administratif dan terus berkembang pesat hingga saat ini, terutama dalam hal pemerintahan, infrastruktur, dan kesejahteraan sosial. <br>
+
+3. Fakta Unik: <br>
+  -Kota Belimbing: Depok dijuluki "Kota Belimbing" karena dulunya banyak ditumbuhi pohon belimbing. <br>
+  -Pusat Pendidikan: Depok menjadi rumah bagi Universitas Indonesia (UI) dan Universitas Gunadarma, menjadikannya pusat pendidikan ternama. <br>
+  -Keindahan Alam: Kota ini memiliki Kebun Raya Depok dan Kawasan Konservasi Sungai Cipayung, menawarkan wisata alam yang menarik. <br>
+  -Kuliner Menggugah Selera: Dari Soto Depok yang khas hingga Martabak Tegal yang lezat, Depok memanjakan lidah para pecinta kuliner. <br>
+  -Festival Film: Setiap dua tahun, Depok menyelenggarakan Festival Film Internasional Depok (DIFF), menghadirkan film-film dari berbagai negara. <br>
 
 ### 8. KOTA SUKABUMI <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/d394210c-e738-481f-b57c-1a86dc6d43d9)
 
-Kota Sukabumi adalah sebuah kota yang berada di provinsi Jawa Barat, Indonesia. 
-Kota ini merupakan enklave dari Kabupaten Sukabumi. Luas wilayah Kota Sukabumi berada di urutan ketiga terkecil di Jawa Barat setelah Kota Cirebon dan Kota Cimahi, yakni 48,33 km².
-Jumlah penduduk Kota Sukabumi pada tahun 2021 tercatat sebanyak 353.455 jiwa.
+1. Deskripsi: <br>
+Kota Sukabumi, yang terletak di Jawa Barat, menawarkan pesona alam yang indah dan sejarah yang menarik. Dikelilingi oleh Gunung Gede dan Gunung Pangrango, Sukabumi memiliki iklim sejuk dan nyaman untuk dikunjungi. Berada di antara Jakarta dan Bandung, kota ini sering menjadi tempat transit dan wisata akhir pekan. <br>
 
-Ibukota: Kecamatan Cikole <br>
-Luas: 48,33 km² <br>
-Penduduk: 353.455 jiwa (2021) <br>
-Kecamatan: 7 (Baros, Cikole, Cikundul, Cibadak, Citamiang, Gunungpuyuh, Warungdowo) <br>
-Kelurahan: 43 <br>
-Wisata:
-Alam:
-Curug Cibereum: Air terjun dengan tujuh tingkat yang menawarkan pemandangan alam yang indah.
-Gunung Gede Pangrango: Gunung berapi dengan jalur pendakian yang menantang.
-Situ Gunung: Danau buatan yang menjadi area rekreasi dan konservasi. <br>
-Sejarah & Budaya:
-Istana Merdeka: Istana bergaya Eropa peninggalan zaman kolonial Belanda.
-Museum Geologi: Museum yang menyimpan koleksi batuan, mineral, dan fosil dari berbagai daerah di Indonesia.
-Kampung Batik Sukabumi: Kawasan yang memproduksi batik khas Sukabumi dengan motif unik. <br>
-Kuliner:
-Mochi Sukabumi: Kue mochi khas Sukabumi dengan tekstur yang kenyal dan berbagai isian rasa.
-Mie Kocok Sukabumi: Mie yang disajikan dengan kuah kaldu sapi, kikil, dan tauge.
-Soto Mi Sukabumi: Perpaduan antara soto dan mi yang memiliki cita rasa khas. <br>
-Sejarah:
-Didirikan pada abad ke-17 sebagai pusat perkebunan teh.
-Pernah menjadi ibukota Kabupaten Sukabumi sebelum dipisahkan menjadi kota administratif pada tahun 2000.
-Kota Sukabumi dikenal dengan sebutan "Kota Mochi" karena produksi mochi yang terkenal. <br>
-Hal Unik:
-Festival Mochi: Festival tahunan yang menampilkan berbagai kegiatan bertemakan mochi, seperti lomba membuat mochi dan pameran mochi.
-Situ Sukabumi: Danau buatan yang menjadi ikon Kota Sukabumi dan area rekreasi masyarakat.
-Kampung Batik Sukabumi: Kawasan yang masih melestarikan batik tradisional dengan motif khas.
-Kue mochi khas: Mochi Sukabumi terkenal dengan tekstur yang kenyal dan beragam isian rasa. <br>
+2. Sejarah: <br>
+Pada masa Hindia Belanda, Sukabumi terbagi menjadi dua wilayah: Kota Sukabumi dan Kabupaten Sukabumi. Nama "Sukabumi" pertama kali dicatat dalam laporan survei perkebunan oleh Andries de Wilde pada tahun 1814. Pada tahun 1914, Sukabumi resmi menjadi kota, namun baru memiliki wali kota pada tahun 1926. <br>
+
+3. Fakta Unik: <br>
+  -Pusat Pengrajin Bambu: Sukabumi terkenal sebagai sentra industri anyaman bambu, menghasilkan berbagai produk berkualitas tinggi. <br>
+  -Kota Pensiunan: Sukabumi menjadi pilihan tempat tinggal favorit bagi para pensiunan karena udaranya yang sejuk dan suasana yang tenang. <br>
+  -Tempat Lahir Tokoh Ternama: Sukabumi merupakan tempat kelahiran beberapa tokoh ternama Indonesia, seperti Mohammad Toha, KH. Agus Salim, dan R.A. Kartini. <br>
+  -Situs Megalitikum: Terdapat situs megalitikum peninggalan prasejarah di Gunung Padang yang menarik untuk ditelusuri. <br>
+  -Kesenian Tradisional: Sukabumi memiliki berbagai kesenian tradisional yang masih dilestarikan, seperti Jaipong, Wayang Golek, dan Tari Topeng. <br>
+  -Festival Unik: Festival Sekaten dan Festival Cap Go Meh merupakan festival budaya yang meriah dan menarik untuk disaksikan. <br>
+
 
 ### 9. KOTA TASIKMALAYA <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/f58fd242-f4ec-46d7-992b-cf00d1374681)
 
-Kota Tasikmalaya adalah salah satu kota yang berada di provinsi Jawa Barat, Indonesia. Kota ini berjuluk Sang Mutiara dari Priangan Timur. Kota Tasikmalaya terletak di jalur utama 
-selatan Pulau Jawa yang menghubungkan Kota Bandung dengan Surabaya. Pada tahun 2021, jumlah penduduk kota Tasikmalaya sebanyak 731.048 jiwa, dengan kepadatan 4.260 jiwa/km2.
+1. Deskripsi: <br>
+Kota Tasikmalaya, yang terletak di Jawa Barat, terkenal dengan julukan "Mutiara Priangan Timur". Kota ini menawarkan perpaduan budaya Sunda dan Jawa yang kental, tercermin dalam berbagai aspek kehidupan masyarakatnya. Tasikmalaya terkenal dengan keindahan alamnya, keramahan penduduknya, dan berbagai produk kerajinan tangannya yang berkualitas tinggi. <br>
 
-Ibukota: Kecamatan Cibeureum <br>
-Luas: 171,61 km² <br>
-Penduduk: 692.567 jiwa (2017) <br>
-Kecamatan: 10 (Cibeureum, Cihideung, Cipedes, Indihiang, Kawalu, Mangkubumi, Purbaratu, Tamansari, Tasikmalaya, West City) <br>
-Kelurahan: 69 <br>
-Wisata:<br>
-Alam:<br>
-Situ Gede: Danau buatan yang menjadi area rekreasi dan konservasi <br>
-Pemandian Air Panas Cipanas: Pemandian air panas alami yang dipercaya memiliki khasiat untuk kesehatan<br>
-Gunung Galunggung: Gunung berapi yang menawarkan pemandangan alam yang indah dan jalur pendakian yang menantang <br>
-Sejarah & Budaya:<br>
-Masjid Agung Tasikmalaya: Masjid terbesar dan tertua di Kota Tasikmalaya<br>
-Kampung Nangor: Kampung adat Sunda yang masih mempertahankan tradisi dan budaya leluhur<br>
-Museum Negeri Tasikmalaya: Museum yang menyimpan koleksi benda-benda bersejarah dan kebudayaan Kota Tasikmalaya <br>
-Kuliner:<br>
-Yamie Tasik: Mi khas Tasikmalaya yang disajikan dengan kuah kaldu sapi, kikil, dan tauge<br>
-Ikan Bakar: Hidangan ikan bakar yang terkenal dengan bumbunya yang khas<br>
-Manisan: Manisan buah-buahan khas Tasikmalaya, seperti manisan mangga dan manisan pala <br>
-Sejarah:<br>
-Kota Tasikmalaya didirikan pada abad ke-17 sebagai pusat perdagangan dan pertanian.<br>
-Pernah menjadi bagian dari Kabupaten Ciamis sebelum dipisahkan menjadi kota administratif pada tahun 1976. <br>
-Kota Tasikmalaya dikenal sebagai kota santri karena banyaknya pesantren yang berada di kota ini. <br>
-Hal Unik: <br>
-Festival Layang-Layang: Festival tahunan yang menampilkan layang-layang hias dengan berbagai bentuk dan ukuran. <br>
-Klangenan: Seni musik tradisional khas Tasikmalaya yang menggunakan instrument gamelan.<br>
-Bordir Tasikmalaya: Kerajinan tangan berupa sulaman benang pada kain yang biasanya digunakan untuk hiasan pakaian atau perlengkapan rumah tangga. <br>
+2. Sejarah: <br>
+Sejarah Tasikmalaya terhubung erat dengan Kerajaan Padjadjaran dan Kesultanan Cirebon. Pada abad ke-18, wilayah ini menjadi bagian dari wilayah Priangan Timur di bawah pemerintahan Hindia Belanda. Pada tahun 1913, Tasikmalaya resmi menjadi kota. <br>
 
+3. Fakta Unik: <br>
+  -Kota Santri: Tasikmalaya dikenal sebagai kota santri karena banyaknya pesantren dan ulama ternama yang berasal dari kota ini. <br>
+  -Pusat Kerajinan: Tasikmalaya terkenal dengan berbagai produk kerajinan tangannya, seperti bordir, batik, dan payung geulis. <br>
+  -Kuliner Lezat: Tasikmalaya memiliki berbagai kuliner khas yang lezat, seperti nasi tutug oncom, mie kocok, dan bakso Malang. <br>
+  -Tempat Wisata Menarik: Kota ini memiliki berbagai tempat wisata menarik, seperti Situ Gede, Taman Wisata Karang Resik, dan Gunung Galunggung. <br>
+  -Tradisi Unik: Tasikmalaya memiliki berbagai tradisi unik, seperti Maulid Nabi dan Festival Layang-layang. <br>
+  
 ### 10. KABUPATEN CIAMIS <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/89297164/5edfee52-a111-4974-b3c3-8bf13adcb0cc)
 
-Kabupaten Ciamis (dikenal dengan Galuh, Sunda: ᮎᮤᮃᮙᮤᮞ᮪, Pegon: چياميس) adalah sebuah wilayah kabupaten yang ada di Provinsi Jawa Barat, Indonesia. 
-Ibu kotanya adalah Kecamatan Ciamis. Kabupaten ini berada di bagian tenggara Jawa Barat, berbatasan dengan Kabupaten Majalengka dan Kabupaten Kuningan di utara, 
-Kabupaten Cilacap dan Kota Banjar di timur, Kabupaten Pangandaran dan Kabupaten Tasikmalaya di selatan, serta Kota Tasikmalaya dan Kabupaten Tasikmalaya di barat.
+1. Deskripsi: <br>
+Kabupaten Ciamis, yang terletak di Jawa Barat, menawarkan pesona alam yang indah dan budaya yang kaya. Dijuluki "Tatar Galuh", Ciamis merupakan bagian dari Kerajaan Galuh Pakuan Pajajaran pada masa lampau. Keindahan alam Ciamis terpancar dari berbagai gunung, danau, dan situ yang mempesona. Ciamis juga terkenal dengan budaya Sunda yang kental, tercermin dalam berbagai tradisi dan keseniannya. <br>
 
-Ibukota: Kecamatan Ciamis <br>
-Luas: 1.598 km persegi <br>
-Penduduk: 1,389 juta (2015) <br>
-Kecamatan: 27 <br>
-Desa: 258 <br>
-Wisata:
-Alam:
-Situ Lengkong: Danau dengan pemandangan alam yang indah dan area rekreasi <br>
-Panjalu: Pemandian air panas alami dengan khasiat untuk kesehatan <br>
-Kawah Ciamis: Kawah belerang dengan pemandangan yang unik <br>
-Gunung Sawal: Gunung dengan jalur pendakian yang menantang <br>
-Budaya:
-Masjid Agung Ciamis: Masjid terbesar dan tertua di Kabupaten Ciamis <br>
-Situs Ciamis: Situs peninggalan sejarah yang bernilai tinggi <br>
-Kampung Budaya Sindangrasa: Kampung yang masih mempertahankan tradisi dan budaya Sunda <br>
-Kuliner:
-Nasi Jamblang: Nasi dengan lauk pauk yang dibungkus daun jati <br>
-Galendo: Kue tradisional yang terbuat dari tepung beras dan santan <br>
-Dodol Ciamis: Dodol khas Ciamis dengan rasa yang manis dan legit <br>
-Sejarah:
-Kabupaten Ciamis didirikan pada abad ke-16 sebagai bagian dari Kesultanan Cirebon. <br>
-Pernah menjadi bagian dari Kabupaten Galuh sebelum dipisahkan menjadi kabupaten administratif pada tahun 1825. <br>
-Kabupaten Ciamis dikenal sebagai salah satu pusat penyebaran agama Islam di Jawa Barat. <br> 
-Hal Unik:
-Festival Galendo: Festival tahunan yang menampilkan kue tradisional Galendo dan berbagai kegiatan budaya lainnya. <br>
-Mapag Sri: Tradisi menyambut panen padi yang masih dilestarikan di Kabupaten Ciamis. <br>
-Pencak Silat: Seni bela diri tradisional yang populer di Kabupaten Ciamis. <br>
+2. Sejarah Singkat: <br>
+Sejarah Ciamis terhubung erat dengan Kerajaan Galuh Pakuan Pajajaran. Pada abad ke-16, Ciamis menjadi bagian dari wilayah Kesultanan Cirebon. Pada tahun 1813, Ciamis resmi menjadi kabupaten di bawah pemerintahan Hindia Belanda. <br>
 
+3. Fakta Unik: <br>
+  -Pusat Pengrajin Golok: Ciamis terkenal dengan kerajinan goloknya yang berkualitas tinggi, seperti Golok Ciamis dan Golok Kujang. <br>
+  -Danau Kawah: Ciamis memiliki Danau Kawah Ciamis yang unik, danau kawah yang terbentuk dari letusan gunung berapi. <br>
+  -Kuliner Khas: Ciamis memiliki berbagai kuliner khas yang lezat, seperti Nasi Jamblang, Soto Banjar, dan Galendo. <br>
+  -Tempat Wisata Menarik: Ciamis memiliki berbagai tempat wisata menarik, seperti Situ Lengkong, Taman Nasional Gunung Gede Pangrango, dan Pantai Pangandaran. <br>
+  -Tradisi Unik: Ciamis memiliki berbagai tradisi unik, seperti Mapag Sri dan Festival Layang-layang. <br>
 
 ### 11. KABUPATEN PANGANDARAN <br>
 ![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/6efc0ff8-0707-452a-8876-2e93a587a840)
