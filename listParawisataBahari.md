@@ -1,5 +1,5 @@
 **Pantai Pelabuhan Ratu** <br>
-https://cdn.idntimes.com/content-images/post/20180703/9cf811256e7361e44ff31f489d5ffb61.jpg
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/f79d167e-1c67-46d7-8f2e-68418391a0d0)
 
 Pantai Pelabuhan Ratu adalah sebuah destinasi pantai yang terletak di Kabupaten Sukabumi, Jawa Barat, Indonesia. Pantai ini terkenal dengan keindahan alamnya yang menakjubkan, pasir putihnya yang lembut, serta ombak yang cocok untuk berselancar.
 
@@ -8,7 +8,7 @@ Pantai Pelabuhan Ratu memiliki panorama alam yang menawan dengan pemandangan sam
 Selain menikmati pemandangan alam yang memukau, Pantai Pelabuhan Ratu juga menawarkan berbagai aktivitas wisata yang menarik. Ombak yang cukup besar di beberapa area pantai menjadikannya tempat yang cocok untuk berselancar bagi para penggemar olahraga air.
 
 **Pantai Batu Hiu** <br>
-https://appback.pangandarankab.go.id/public/images/destinasi/23012021133403.jpg
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/155daeb0-7943-499b-8b7c-9ffd37284d5a)
 
 Pantai Batu Hiu adalah sebuah destinasi pantai yang terletak di Kabupaten Sukabumi, Jawa Barat, Indonesia. Pantai ini terkenal dengan karakteristik geologisnya yang unik, di mana terdapat formasi batu karang yang menyerupai kepala hiu yang sedang berenang.
 
@@ -17,14 +17,14 @@ Daya tarik utama dari Pantai Batu Hiuk adalah formasi batu karang yang menakjubk
 Selain menikmati pemandangan batu karang yang unik, pengunjung juga dapat menikmati keindahan alam pantai yang menawan. Pasir putih yang lembut, air laut yang jernih, dan hamparan pantai yang luas menjadikan Pantai Batu Hiuk tempat yang sempurna untuk bersantai dan menikmati suasana alam yang tenang.
 
 **Pantai Sindangkerta** <br>
-https://asset.kompas.com/crops/jGBTQN03PJnQnXjGMo-ZonWntY8=/0x12:1000x679/750x500/data/photo/2022/12/12/6396cbd2e0152.jpg
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/dd92fbd8-469e-422f-8e67-cbf1a2cd431a)
 
 Pantai Sindangkerta merupakan pantai berpasir putih yang terletak di Desa Sindangkerta, Kecamatan Cipatujah, Kabupaten Tasikmalaya, Jawa Barat. Pantai ini berjarak sekitar 64 km dari pusat Kota Tasikmalaya dan dapat ditempuh dengan kendaraan roda dua maupun roda empat selama kurang lebih 2 jam.
 
 Pantai Sindangkerta terkenal dengan keindahan alamnya yang masih asri. Pasir pantainya yang putih bersih dan air lautnya yang biru jernih menjadi daya tarik utama pantai ini. Selain itu, pantai ini juga memiliki ombak yang tenang sehingga aman untuk berenang.
 
 **Pantai Pangandaran** <br>
-https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/07/22012021110634-4122733520.jpg
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/e85295eb-893b-4c53-ba6c-6013126c8af3)
 
 Pantai Pangandaran adalah salah satu destinasi pantai yang paling terkenal di Jawa Barat, terletak di Kabupaten Pangandaran. Pantai ini menawarkan kombinasi sempurna antara keindahan alam, aktivitas wisata, dan kenyamanan bagi para pengunjung.
 
@@ -35,7 +35,7 @@ Pantai Pangandaran terbagi menjadi dua bagian, yaitu Pangandaran Barat dan Panga
 Sementara itu, Pangandaran Timur adalah area yang lebih alami dan tenang. Pantai ini dikelilingi oleh hutan dan tebing karang yang indah, menciptakan suasana yang lebih sepi dan damai. Di sini, pengunjung dapat menikmati keindahan alam yang masih alami dan melakukan aktivitas seperti trekking atau berjalan-jalan di sepanjang pantai.
 
 **Pantai Madasari** <br>
-https://img.okezone.com/content/2022/07/07/408/2625536/wisata-pantai-madasari-pangandaran-tiket-lokasi-rute-fasilitas-dan-daya-tariknya-l1gYQABT55.jpg
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/144994306/78806422-cc40-4627-b567-28cb1717fae4)
 
 Pantai Madasari terletak di Desa Masawah, Kecamatan Cimerak, Kabupaten Pangandaran, Jawa Barat. Pantai ini berjarak sekitar 15 kilometer dari pusat Kota Pangandaran dan dapat ditempuh dengan kendaraan roda dua maupun roda empat selama kurang lebih 30 menit.
 
