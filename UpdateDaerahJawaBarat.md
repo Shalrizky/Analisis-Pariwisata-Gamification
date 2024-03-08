@@ -311,3 +311,34 @@ Hal Unik:
 Festival Galendo: Festival tahunan yang menampilkan kue tradisional Galendo dan berbagai kegiatan budaya lainnya. <br>
 Mapag Sri: Tradisi menyambut panen padi yang masih dilestarikan di Kabupaten Ciamis. <br>
 Pencak Silat: Seni bela diri tradisional yang populer di Kabupaten Ciamis. <br>
+
+
+### 11. KABUPATEN PANGANDARAN <br>
+![image](https://github.com/Shalrizky/Analisis-Pariwisata-Gamification/assets/137773855/6efc0ff8-0707-452a-8876-2e93a587a840)
+
+Kabupaten Pangandaran (aksara Sunda: ᮕᮍᮔ᮪ᮓᮛᮔ᮪) adalah sebuah wilayah kabupaten yang terletak di Provinsi Jawa Barat, Indonesia. Ibu kotanya adalah Kecamatan Parigi. Kabupaten Pangandaran memiliki luas wilayah sekira 1.011,04 km. Kabupaten Pangandaran berbatasan dengan Kabupaten Ciamis di sebelah utara, Kabupaten Cilacap (Provinsi Jawa Tengah) di sebelah timur, Samudra Hindia di sebelah selatan, serta Kabupaten Tasikmalaya di sebelah barat. Kabupaten Pangandaran terletak di bagian ujung tenggara dari wilayah Provinsi Jawa Barat yang berbatasan langsung dengan Provinsi Jawa Tengah di sebelah timur. Kabupaten ini merupakan buah pemekaran dari Kabupaten Ciamis.
+
+Ibukota: Kecamatan Pangandaran <br>
+Luas: 1.011,04 km persegi <br>
+Penduduk: 1,389 juta (2015) <br>
+Kecamatan: 27 <br>
+Desa: 258 <br>
+Wisata:
+Alam:
+Pantai Pangandaran: Salah satu pantai terindah di Jawa Barat dengan pasir putih dan ombak yang cocok untuk berselancar. <br>
+Green Canyon: Nama lain dari Cukang Taneuh, tempat wisata dengan sungai yang membelah tebing tinggi, disebut "Cukang Taneuh" karena sungai ini terbelah dan membentuk seperti jalan setapak di antara tebing-tebingnya. <br>
+Taman Hutan Raya Pangandaran: Kawasan konservasi dengan beragam flora dan fauna yang dilindungi. <br>
+Air Terjun Citumang: Air terjun yang memesona dengan air yang jernih dan alami. <br>
+Budaya: <br>
+Kampung Naga: Desa adat yang masih mempertahankan tradisi Sunda kuno, terletak di lereng Gunung Pulosari. <br>
+Wayang Golek Pangandaran: Seni tradisional wayang golek khas Pangandaran yang masih lestari. <br>
+Seni Bela Diri Sunda: Tradisi seni bela diri khas Sunda yang diwarisi secara turun-temurun. <br>
+Kuliner: <br>
+Makanan Khas Pangandaran: Sajian kuliner yang terkenal diantaranya adalah sate kelapa, gurami goreng, dan ikan bakar. <br>
+Pohon Pisang Epe: Makanan ringan berbahan dasar pisang yang dipadatkan dan diberi siraman sari kelapa. <br>
+Sejarah: <br>
+Pangandaran memiliki sejarah panjang sebagai pelabuhan perdagangan laut sejak zaman Kerajaan Pajajaran. <br>
+Pada masa kolonial Belanda, Pangandaran menjadi pusat perdagangan hasil hutan seperti kayu ulin dan damar. <br>
+Hal Unik: <br>
+Festival Kaulinan Pangandaran: Festival tahunan yang menampilkan berbagai permainan tradisional Sunda dan kegiatan budaya lainnya. <br>
+Tradisi Seren Taun: Tradisi menyambut musim panen yang diiringi dengan berbagai upacara adat dan kesenian. <br>
